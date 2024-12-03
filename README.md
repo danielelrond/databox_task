@@ -42,6 +42,7 @@ This is a Flask-based application that integrates with external APIs to fetch me
 - docker run -d -p 5022:5022 -v $(pwd)/databox_push.log:/app/databox_push.log flask-databox-app
 - Open your browser and navigate to http://0.0.0.0:5022.
 - Explore the Swagger UI documentation for API details.
+- run unit test with command pytest
 
 # Architecture Overview
 
