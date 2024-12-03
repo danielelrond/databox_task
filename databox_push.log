@@ -1,0 +1,646 @@
+2024-12-02 06:52:18,474 - INFO - Service Provider: Marketstack and Weatherstack, Time: 2024-12-02 06:52:18.474079
+2024-12-02 06:52:19,094 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': -2}, {'key': 'weather_Ljubljana_humidity', 'value': 93}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1025}, {'key': 'weather_Maribor_temperature', 'value': -1}, {'key': 'weather_Maribor_humidity', 'value': 100}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1025}, {'key': 'weather_Ptuj_temperature', 'value': -1}, {'key': 'weather_Ptuj_humidity', 'value': 100}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1025}], Status: Success
+2024-12-02 07:00:42,686 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 150.25}, {'key': 'stock_AAPL_max_price', 'value': 155.0}, {'key': 'stock_AAPL_min_price', 'value': 145.0}, {'key': 'stock_AAPL_total_volume', 'value': 123456789}, {'key': 'stock_MSFT_avg_price', 'value': 280.75}, {'key': 'stock_MSFT_max_price', 'value': 285.0}, {'key': 'stock_MSFT_min_price', 'value': 275.0}, {'key': 'stock_MSFT_total_volume', 'value': 987654321}, {'key': 'weather_Ljubljana_temperature', 'value': 10.5}, {'key': 'weather_Ljubljana_humidity', 'value': 80}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5.5}, {'key': 'weather_Ljubljana_pressure', 'value': 1015}, {'key': 'weather_Maribor_temperature', 'value': 12.0}, {'key': 'weather_Maribor_humidity', 'value': 75}, {'key': 'weather_Maribor_wind_speed', 'value': 6.0}, {'key': 'weather_Maribor_pressure', 'value': 1012}, {'key': 'weather_Ptuj_temperature', 'value': 9.8}, {'key': 'weather_Ptuj_humidity', 'value': 85}, {'key': 'weather_Ptuj_wind_speed', 'value': 4.0}, {'key': 'weather_Ptuj_pressure', 'value': 1018}], Status: Success
+2024-12-02 07:02:34,576 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': -2}, {'key': 'weather_Ljubljana_humidity', 'value': 93}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1025}, {'key': 'weather_Maribor_temperature', 'value': -1}, {'key': 'weather_Maribor_humidity', 'value': 100}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1025}, {'key': 'weather_Ptuj_temperature', 'value': -1}, {'key': 'weather_Ptuj_humidity', 'value': 100}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1025}], Status: Success
+2024-12-02 07:02:44,519 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': -2}, {'key': 'weather_Ljubljana_humidity', 'value': 93}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1025}, {'key': 'weather_Maribor_temperature', 'value': -1}, {'key': 'weather_Maribor_humidity', 'value': 100}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1025}, {'key': 'weather_Ptuj_temperature', 'value': -1}, {'key': 'weather_Ptuj_humidity', 'value': 100}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1025}], Status: Success
+2024-12-02 07:08:12,905 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': -2}, {'key': 'weather_Ljubljana_humidity', 'value': 93}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1025}, {'key': 'weather_Maribor_temperature', 'value': -1}, {'key': 'weather_Maribor_humidity', 'value': 100}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1025}, {'key': 'weather_Ptuj_temperature', 'value': -1}, {'key': 'weather_Ptuj_humidity', 'value': 100}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1025}], Status: Success
+2024-12-02 12:59:31,125 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': 8}, {'key': 'weather_Ljubljana_humidity', 'value': 66}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}, {'key': 'weather_Maribor_temperature', 'value': 9}, {'key': 'weather_Maribor_humidity', 'value': 57}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1024}, {'key': 'weather_Ptuj_temperature', 'value': 9}, {'key': 'weather_Ptuj_humidity', 'value': 57}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1024}], Status: Success
+2024-12-02 13:03:04,978 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': 8}, {'key': 'weather_Ljubljana_humidity', 'value': 66}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}, {'key': 'weather_Maribor_temperature', 'value': 9}, {'key': 'weather_Maribor_humidity', 'value': 57}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1024}, {'key': 'weather_Ptuj_temperature', 'value': 9}, {'key': 'weather_Ptuj_humidity', 'value': 57}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1024}], Status: Success
+2024-12-02 13:05:37,060 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': 8}, {'key': 'weather_Ljubljana_humidity', 'value': 66}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}, {'key': 'weather_Maribor_temperature', 'value': 9}, {'key': 'weather_Maribor_humidity', 'value': 57}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1024}, {'key': 'weather_Ptuj_temperature', 'value': 9}, {'key': 'weather_Ptuj_humidity', 'value': 57}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1024}], Status: Success
+2024-12-02 13:09:23,707 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': 8}, {'key': 'weather_Ljubljana_humidity', 'value': 66}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}, {'key': 'weather_Maribor_temperature', 'value': 9}, {'key': 'weather_Maribor_humidity', 'value': 57}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1024}, {'key': 'weather_Ptuj_temperature', 'value': 9}, {'key': 'weather_Ptuj_humidity', 'value': 57}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1024}], Status: Success
+2024-12-02 13:16:18,381 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488821.0}, {'key': 'weather_Ljubljana_temperature', 'value': 8}, {'key': 'weather_Ljubljana_humidity', 'value': 61}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}, {'key': 'weather_Maribor_temperature', 'value': 9}, {'key': 'weather_Maribor_humidity', 'value': 57}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1023}, {'key': 'weather_Ptuj_temperature', 'value': 9}, {'key': 'weather_Ptuj_humidity', 'value': 57}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1023}], Status: Success
+2024-12-02 13:22:08,329 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': 8}, {'key': 'weather_Ljubljana_humidity', 'value': 61}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}, {'key': 'weather_Maribor_temperature', 'value': 9}, {'key': 'weather_Maribor_humidity', 'value': 57}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1023}, {'key': 'weather_Ptuj_temperature', 'value': 7}, {'key': 'weather_Ptuj_humidity', 'value': 66}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1023}], Status: Success
+2024-12-02 13:24:57,279 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': 8}, {'key': 'weather_Ljubljana_humidity', 'value': 61}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}, {'key': 'weather_Maribor_temperature', 'value': 9}, {'key': 'weather_Maribor_humidity', 'value': 57}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1023}, {'key': 'weather_Ptuj_temperature', 'value': 7}, {'key': 'weather_Ptuj_humidity', 'value': 66}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1023}], Status: Success
+2024-12-02 13:25:02,637 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': 8}, {'key': 'weather_Ljubljana_humidity', 'value': 61}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}, {'key': 'weather_Maribor_temperature', 'value': 9}, {'key': 'weather_Maribor_humidity', 'value': 57}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1023}, {'key': 'weather_Ptuj_temperature', 'value': 7}, {'key': 'weather_Ptuj_humidity', 'value': 66}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1023}], Status: Success
+2024-12-02 13:44:10,835 - INFO - Headers: Host: 153.5.66.230:5022
+Connection: keep-alive
+Content-Length: 0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: application/json
+Origin: http://153.5.66.230:5022
+Referer: http://153.5.66.230:5022/
+Accept-Encoding: gzip, deflate
+Accept-Language: sl,en-US;q=0.9,en;q=0.8
+Cookie: csrftoken=oadNbRU6ztB1HNQumVxOc84k7OE8Abse
+
+
+2024-12-02 13:44:10,836 - INFO - Data: b''
+2024-12-02 13:44:13,519 - INFO - Headers: Host: 153.5.66.230:5022
+Connection: keep-alive
+Content-Length: 0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: application/json
+Origin: http://153.5.66.230:5022
+Referer: http://153.5.66.230:5022/
+Accept-Encoding: gzip, deflate
+Accept-Language: sl,en-US;q=0.9,en;q=0.8
+Cookie: csrftoken=oadNbRU6ztB1HNQumVxOc84k7OE8Abse
+
+
+2024-12-02 13:44:13,519 - INFO - Data: b''
+2024-12-02 13:44:30,329 - INFO - Headers: Host: 153.5.66.230:5022
+Connection: keep-alive
+Content-Length: 0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: application/json
+Origin: http://153.5.66.230:5022
+Referer: http://153.5.66.230:5022/
+Accept-Encoding: gzip, deflate
+Accept-Language: sl,en-US;q=0.9,en;q=0.8
+Cookie: csrftoken=oadNbRU6ztB1HNQumVxOc84k7OE8Abse
+
+
+2024-12-02 13:44:30,329 - INFO - Data: b''
+2024-12-02 13:45:29,483 - INFO - Parsed JSON: {'username': 'asddas', 'password': 'strisadsadng'}
+2024-12-02 13:45:55,857 - INFO - Parsed JSON: {'username': 'test_user', 'password': 'password123'}
+2024-12-02 13:46:25,517 - INFO - Parsed JSON: {'username': 'test_user', 'password': 'password123'}
+2024-12-02 13:48:34,859 - INFO - Parsed JSON: {'username': 'test_user', 'password': 'password123'}
+2024-12-02 13:48:43,357 - WARNING - No token found in request.
+2024-12-02 13:49:56,228 - WARNING - No token found in request.
+2024-12-02 13:50:17,515 - INFO - Parsed JSON: {'username': 'test_user', 'password': 'password123'}
+2024-12-02 14:04:15,799 - INFO - Parsed JSON: {'username': 'string', 'password': 'string'}
+2024-12-02 14:04:32,779 - INFO - Parsed JSON: {'username': 'test_user', 'password': 'password123'}
+2024-12-02 14:04:44,398 - WARNING - No valid token found in Authorization header.
+2024-12-02 14:07:02,987 - INFO - Generated Token: FHS0bmBzfpo508NTA7TAn3KluZkntOSM, Tokens Stored: {'FHS0bmBzfpo508NTA7TAn3KluZkntOSM': {'user_id': 'test_user', 'scopes': 'read write'}}
+2024-12-02 14:13:55,785 - INFO - Generated Token: aCJvRbP6exNdYDtXRrJllhW0WwcAF1WP, Tokens Stored: {'aCJvRbP6exNdYDtXRrJllhW0WwcAF1WP': {'user_id': 'test_user', 'scopes': 'read write'}}
+2024-12-02 14:17:38,779 - INFO - Generated Token: StUj9DbIjnda8NpYoyEGfwrxiBYs4V5Y, Tokens Stored: {'StUj9DbIjnda8NpYoyEGfwrxiBYs4V5Y': {'user_id': 'test_user', 'scopes': 'read write'}}
+2024-12-02 14:17:46,458 - INFO - Access Token Extracted: None
+2024-12-02 14:26:48,977 - INFO - Generated Token: 38Zv73mbIy5FXomG21kgrao1SsFW8kAG, Tokens Stored: {'38Zv73mbIy5FXomG21kgrao1SsFW8kAG': <__main__.Token object at 0x71e6c1d037c0>}
+2024-12-02 14:29:59,532 - INFO - Generated Token: J5N55zSI5OkgHXzTtChjP79wPlU0Bktp, Tokens Stored: {'J5N55zSI5OkgHXzTtChjP79wPlU0Bktp': <__main__.Token object at 0x776a1e9d0490>}
+2024-12-02 14:31:11,608 - INFO - Generated Token: 5qJnsLmkKgR1Cc6EmPaFy64KCnCArYs5, Tokens Stored: {'5qJnsLmkKgR1Cc6EmPaFy64KCnCArYs5': <__main__.Token object at 0x7fc1baa94c70>}
+2024-12-02 14:34:14,417 - INFO - Generated Token: 5weHxB5zI1wRadpXbgvUkU2Vx69vtyTK, Tokens Stored: {'5weHxB5zI1wRadpXbgvUkU2Vx69vtyTK': <__main__.Token object at 0x7577fc53f2b0>}
+2024-12-02 14:35:54,643 - INFO - Generated Token: xRY9oj6Eih0eWeJLnwyiThGaGAnZSCGU, Tokens Stored: {'xRY9oj6Eih0eWeJLnwyiThGaGAnZSCGU': <__main__.Token object at 0x788ae56f4340>}
+2024-12-02 14:37:11,287 - WARNING - Request Headers: {'Host': '153.5.66.230:5022', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'Accept': 'application/json', 'Authorization': 'xRY9oj6Eih0eWeJLnwyiThGaGAnZSCGU', 'Referer': 'http://153.5.66.230:5022/', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'sl,en-US;q=0.9,en;q=0.8', 'Cookie': 'csrftoken=oadNbRU6ztB1HNQumVxOc84k7OE8Abse'}
+2024-12-02 14:40:01,875 - INFO - Generated Token: pm8648aHuoIFM3uHOT4TVbjMxyxCVxCR, Tokens Stored: {'pm8648aHuoIFM3uHOT4TVbjMxyxCVxCR': <__main__.Token object at 0x746f703174c0>}
+2024-12-02 14:42:07,207 - INFO - Generated Token: tdZPSS8Sj5Fqql0s6vS444URwJ7N656H, Tokens Stored: {'tdZPSS8Sj5Fqql0s6vS444URwJ7N656H': <__main__.Token object at 0x7f718e99ae80>}
+2024-12-02 14:44:50,277 - INFO - Generated Token: e39mmGsRfFlj3NbBYMfAuqgMCDjq40P0, Tokens Stored: {'e39mmGsRfFlj3NbBYMfAuqgMCDjq40P0': <__main__.Token object at 0x78e0c6f84b80>}
+2024-12-02 14:48:06,427 - INFO - Generated Token: 0yu8etJulocdnYtbtYBjhae4FlpGFf4s, Tokens Stored: ['0yu8etJulocdnYtbtYBjhae4FlpGFf4s']
+2024-12-02 14:53:20,492 - INFO - Generated Token: 9H1IKuaUduTsTgVvgmLlvP454g6Uz7J2, Tokens Stored: ['9H1IKuaUduTsTgVvgmLlvP454g6Uz7J2']
+2024-12-02 14:56:18,678 - INFO - Authenticating token: 9H1IKuaUduTsTgVvgmLlvP454g6Uz7J2
+2024-12-02 14:56:18,678 - INFO - Token is invalid or expired: 9H1IKuaUduTsTgVvgmLlvP454g6Uz7J2
+2024-12-02 14:56:25,436 - INFO - Generated Token: ngEvAigOywWj58WLZhekKgBi84axu5Wv, Tokens Stored: ['ngEvAigOywWj58WLZhekKgBi84axu5Wv']
+2024-12-02 14:56:32,288 - INFO - Authenticating token: ngEvAigOywWj58WLZhekKgBi84axu5Wv
+2024-12-02 14:56:32,288 - INFO - Token is valid: ngEvAigOywWj58WLZhekKgBi84axu5Wv
+2024-12-02 14:58:24,516 - INFO - Authenticating token: ngEvAigOywWj58WLZhekKgBi84axu5Wv
+2024-12-02 14:58:24,517 - INFO - Token is invalid or expired: ngEvAigOywWj58WLZhekKgBi84axu5Wv
+2024-12-02 14:58:30,198 - INFO - Generated Token: axhd6lmPvgL5zMcjHUJbXx68YWGhTAev, Tokens Stored: ['axhd6lmPvgL5zMcjHUJbXx68YWGhTAev']
+2024-12-02 14:58:34,748 - INFO - Authenticating token: axhd6lmPvgL5zMcjHUJbXx68YWGhTAev
+2024-12-02 14:58:34,748 - INFO - Token is valid: axhd6lmPvgL5zMcjHUJbXx68YWGhTAev
+2024-12-02 14:58:34,748 - DEBUG - Request Headers: {'Content-Type': 'application/json', 'Authorization': 'Bearer axhd6lmPvgL5zMcjHUJbXx68YWGhTAev', 'User-Agent': 'PostmanRuntime/7.37.3', 'Accept': '*/*', 'Postman-Token': '637f7996-9985-4c69-b49a-2b13b7b9c973', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '78', 'Referer': 'http://153.5.66.230:5022/stocks', 'Host': '153.5.66.230:5022'}
+2024-12-02 14:58:52,513 - INFO - Generated Token: V7MbwPOBTr2TUi8Ryd3RSihIyNkR46Up, Tokens Stored: ['axhd6lmPvgL5zMcjHUJbXx68YWGhTAev', 'V7MbwPOBTr2TUi8Ryd3RSihIyNkR46Up']
+2024-12-02 14:59:13,360 - INFO - Authenticating token: V7MbwPOBTr2TUi8Ryd3RSihIyNkR46Up
+2024-12-02 14:59:13,360 - INFO - Token is valid: V7MbwPOBTr2TUi8Ryd3RSihIyNkR46Up
+2024-12-02 14:59:13,360 - DEBUG - Request Headers: {'Content-Type': 'application/json', 'Authorization': 'Bearer V7MbwPOBTr2TUi8Ryd3RSihIyNkR46Up', 'User-Agent': 'PostmanRuntime/7.37.3', 'Accept': '*/*', 'Postman-Token': '83257a4e-7f7d-42d8-a37c-3dfdd0327263', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '78', 'Referer': 'http://153.5.66.230:5022/stocks', 'Host': '153.5.66.230:5022'}
+2024-12-02 15:00:07,867 - INFO - Generated Token: WmbfOiLzv2cuB6limPGG7iAfRHHXZkBN, Tokens Stored: ['axhd6lmPvgL5zMcjHUJbXx68YWGhTAev', 'V7MbwPOBTr2TUi8Ryd3RSihIyNkR46Up', 'WmbfOiLzv2cuB6limPGG7iAfRHHXZkBN']
+2024-12-02 15:00:54,739 - INFO - Authenticating token: WmbfOiLzv2cuB6limPGG7iAfRHHXZkBN
+2024-12-02 15:00:54,739 - INFO - Token is valid: WmbfOiLzv2cuB6limPGG7iAfRHHXZkBN
+2024-12-02 15:00:54,739 - DEBUG - Request Headers: {'Content-Type': 'application/json', 'Authorization': 'Bearer WmbfOiLzv2cuB6limPGG7iAfRHHXZkBN', 'User-Agent': 'PostmanRuntime/7.37.3', 'Accept': '*/*', 'Postman-Token': '28ccfe0d-6091-43b9-acf5-4525a7a0c5c3', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '78', 'Referer': 'http://153.5.66.230:5022/stocks', 'Host': '153.5.66.230:5022'}
+2024-12-02 15:02:09,679 - INFO - Generated Token: Av7TgE2vUz5RgbqL63altRQkDPQO4VeT, Tokens Stored: ['Av7TgE2vUz5RgbqL63altRQkDPQO4VeT']
+2024-12-02 15:03:46,277 - INFO - Generated Token: 8vj31403AHKkzWErVEQ6iNcSQPYdGZZQ, Tokens Stored: ['8vj31403AHKkzWErVEQ6iNcSQPYdGZZQ']
+2024-12-02 15:03:52,939 - INFO - Authenticating token: 8vj31403AHKkzWErVEQ6iNcSQPYdGZZQ
+2024-12-02 15:03:52,939 - INFO - Token is valid: 8vj31403AHKkzWErVEQ6iNcSQPYdGZZQ
+2024-12-02 15:03:52,939 - DEBUG - Request Headers: {'Content-Type': 'application/json', 'Authorization': 'Bearer 8vj31403AHKkzWErVEQ6iNcSQPYdGZZQ', 'User-Agent': 'PostmanRuntime/7.37.3', 'Accept': '*/*', 'Postman-Token': '5c323673-c325-4836-84b2-47b723a47101', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '78', 'Referer': 'http://153.5.66.230:5022/stocks', 'Host': '153.5.66.230:5022'}
+2024-12-02 15:05:37,269 - INFO - Generated Token: kmNVusA8eMScRvw1RNUgoo0Y1PVueSAK, Tokens Stored: ['kmNVusA8eMScRvw1RNUgoo0Y1PVueSAK']
+2024-12-02 15:05:56,219 - INFO - Authenticating token: kmNVusA8eMScRvw1RNUgoo0Y1PVueSAK
+2024-12-02 15:05:56,219 - INFO - Token is valid: kmNVusA8eMScRvw1RNUgoo0Y1PVueSAK
+2024-12-02 15:05:56,219 - DEBUG - Request Headers: {'Content-Type': 'application/json', 'Authorization': 'Bearer kmNVusA8eMScRvw1RNUgoo0Y1PVueSAK', 'User-Agent': 'PostmanRuntime/7.37.3', 'Accept': '*/*', 'Postman-Token': '7261c868-ba47-4310-80a2-d275281024da', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '78', 'Referer': 'http://153.5.66.230:5022/stocks', 'Host': '153.5.66.230:5022'}
+2024-12-02 15:10:31,810 - INFO - Generated Token: LA5lAWn0sFgEctL85xwQm6azlSkZXzoP, Tokens Stored: ['LA5lAWn0sFgEctL85xwQm6azlSkZXzoP']
+2024-12-02 15:10:51,389 - INFO - Authenticating token: LA5lAWn0sFgEctL85xwQm6azlSkZXzoP
+2024-12-02 15:10:51,389 - INFO - Token is valid: LA5lAWn0sFgEctL85xwQm6azlSkZXzoP
+2024-12-02 15:10:51,389 - DEBUG - Request Headers: {'Content-Type': 'application/json', 'Authorization': 'Bearer LA5lAWn0sFgEctL85xwQm6azlSkZXzoP', 'User-Agent': 'PostmanRuntime/7.37.3', 'Accept': '*/*', 'Postman-Token': 'f8eedab1-c620-4903-8b35-7b2b086c2531', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '78', 'Referer': 'http://153.5.66.230:5022/stocks', 'Host': '153.5.66.230:5022'}
+2024-12-02 15:11:58,809 - INFO - Generated Token: erSoG5TQmHHzOcdAr3jFaEL6ZLCRgu8r, Tokens Stored: ['erSoG5TQmHHzOcdAr3jFaEL6ZLCRgu8r']
+2024-12-02 15:15:59,999 - INFO - Generated Token: KoXj3j7O6zz8k9IIfghsI7H3frPqEBoW, Tokens Stored: ['KoXj3j7O6zz8k9IIfghsI7H3frPqEBoW']
+2024-12-02 15:16:14,496 - INFO - Authenticating token: KoXj3j7O6zz8k9IIfghsI7H3frPqEBoW
+2024-12-02 15:16:14,496 - INFO - Token is valid: KoXj3j7O6zz8k9IIfghsI7H3frPqEBoW
+2024-12-02 15:16:14,496 - DEBUG - Request Headers: {'Content-Type': 'application/json', 'Authorization': 'Bearer KoXj3j7O6zz8k9IIfghsI7H3frPqEBoW', 'User-Agent': 'PostmanRuntime/7.37.3', 'Accept': '*/*', 'Postman-Token': '31875289-c7fa-4b46-9380-f6c60f05156e', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'Content-Length': '78', 'Referer': 'http://153.5.66.230:5022/stocks', 'Host': '153.5.66.230:5022'}
+2024-12-02 15:18:22,308 - INFO - Generated Token: 4IYvaVN1uVOucjkaXdFwszLjpIj6ntpV, Tokens Stored: ['KoXj3j7O6zz8k9IIfghsI7H3frPqEBoW', '4IYvaVN1uVOucjkaXdFwszLjpIj6ntpV']
+2024-12-02 15:18:41,509 - INFO - Authenticating token: 4IYvaVN1uVOucjkaXdFwszLjpIj6ntpV
+2024-12-02 15:18:41,509 - INFO - Token is valid: 4IYvaVN1uVOucjkaXdFwszLjpIj6ntpV
+2024-12-02 15:18:41,509 - DEBUG - Request Headers: {'Host': '153.5.66.230:5022', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'Accept': 'application/json', 'Authorization': 'Bearer 4IYvaVN1uVOucjkaXdFwszLjpIj6ntpV', 'Referer': 'http://153.5.66.230:5022/', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'sl,en-US;q=0.9,en;q=0.8', 'Cookie': 'csrftoken=oadNbRU6ztB1HNQumVxOc84k7OE8Abse'}
+2024-12-02 15:20:09,879 - INFO - Generated Token: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR, Tokens Stored: ['qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR']
+2024-12-02 15:20:20,589 - INFO - Authenticating token: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR
+2024-12-02 15:20:20,589 - INFO - Token is valid: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR
+2024-12-02 15:20:20,589 - DEBUG - Request Headers: {'Host': '153.5.66.230:5022', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'Accept': 'application/json', 'Authorization': 'Bearer qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR', 'Referer': 'http://153.5.66.230:5022/', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'sl,en-US;q=0.9,en;q=0.8', 'Cookie': 'csrftoken=oadNbRU6ztB1HNQumVxOc84k7OE8Abse'}
+2024-12-02 15:20:28,229 - INFO - Authenticating token: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR
+2024-12-02 15:20:28,229 - INFO - Token is valid: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR
+2024-12-02 15:20:51,152 - INFO - Authenticating token: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR
+2024-12-02 15:20:51,152 - INFO - Token is valid: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR
+2024-12-02 15:21:07,700 - INFO - Authenticating token: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR
+2024-12-02 15:21:07,700 - INFO - Token is valid: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR
+2024-12-02 15:21:11,745 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': 8}, {'key': 'weather_Ljubljana_humidity', 'value': 61}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1021}, {'key': 'weather_Maribor_temperature', 'value': 9}, {'key': 'weather_Maribor_humidity', 'value': 57}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1022}, {'key': 'weather_Ptuj_temperature', 'value': 9}, {'key': 'weather_Ptuj_humidity', 'value': 57}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1022}], Status: Success
+2024-12-02 15:22:19,697 - INFO - Authenticating token: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR
+2024-12-02 15:22:19,697 - INFO - Token is valid: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR
+2024-12-02 15:22:22,814 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': 8}, {'key': 'weather_Ljubljana_humidity', 'value': 61}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1021}, {'key': 'weather_Maribor_temperature', 'value': 9}, {'key': 'weather_Maribor_humidity', 'value': 57}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1022}, {'key': 'weather_Ptuj_temperature', 'value': 9}, {'key': 'weather_Ptuj_humidity', 'value': 57}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1022}], Status: Success
+2024-12-02 15:27:04,148 - INFO - Generated Token: vghY4li9PJIhJF1OL7PpJlsGcUIYzhFi, Tokens Stored: ['vghY4li9PJIhJF1OL7PpJlsGcUIYzhFi']
+2024-12-02 15:27:04,151 - INFO - Generated Token: d04fg5udLptzWXeUoURB4arkOxwPlz1c, Tokens Stored: ['vghY4li9PJIhJF1OL7PpJlsGcUIYzhFi', 'd04fg5udLptzWXeUoURB4arkOxwPlz1c']
+2024-12-02 15:27:04,152 - INFO - Authenticating token: d04fg5udLptzWXeUoURB4arkOxwPlz1c
+2024-12-02 15:27:04,152 - INFO - Token is valid: d04fg5udLptzWXeUoURB4arkOxwPlz1c
+2024-12-02 15:27:04,152 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer d04fg5udLptzWXeUoURB4arkOxwPlz1c'}
+2024-12-02 15:27:04,154 - INFO - Generated Token: IsgGRYyvHZnGdOAtiXLtM0vmDmPbMpWg, Tokens Stored: ['vghY4li9PJIhJF1OL7PpJlsGcUIYzhFi', 'd04fg5udLptzWXeUoURB4arkOxwPlz1c', 'IsgGRYyvHZnGdOAtiXLtM0vmDmPbMpWg']
+2024-12-02 15:27:04,155 - INFO - Authenticating token: IsgGRYyvHZnGdOAtiXLtM0vmDmPbMpWg
+2024-12-02 15:27:04,155 - INFO - Token is valid: IsgGRYyvHZnGdOAtiXLtM0vmDmPbMpWg
+2024-12-02 15:27:04,157 - INFO - Generated Token: GmYQ7zDfFWk2yHKIYDQkdLs3QAnnoZ5Z, Tokens Stored: ['vghY4li9PJIhJF1OL7PpJlsGcUIYzhFi', 'd04fg5udLptzWXeUoURB4arkOxwPlz1c', 'IsgGRYyvHZnGdOAtiXLtM0vmDmPbMpWg', 'GmYQ7zDfFWk2yHKIYDQkdLs3QAnnoZ5Z']
+2024-12-02 15:27:04,158 - INFO - Authenticating token: GmYQ7zDfFWk2yHKIYDQkdLs3QAnnoZ5Z
+2024-12-02 15:27:04,158 - INFO - Token is valid: GmYQ7zDfFWk2yHKIYDQkdLs3QAnnoZ5Z
+2024-12-02 15:27:04,158 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer GmYQ7zDfFWk2yHKIYDQkdLs3QAnnoZ5Z'}
+2024-12-02 15:27:04,159 - INFO - Generated Token: MK3BmT0j7B4an7g5Gjo60sa6kgJfDUif, Tokens Stored: ['vghY4li9PJIhJF1OL7PpJlsGcUIYzhFi', 'd04fg5udLptzWXeUoURB4arkOxwPlz1c', 'IsgGRYyvHZnGdOAtiXLtM0vmDmPbMpWg', 'GmYQ7zDfFWk2yHKIYDQkdLs3QAnnoZ5Z', 'MK3BmT0j7B4an7g5Gjo60sa6kgJfDUif']
+2024-12-02 15:27:04,160 - INFO - Authenticating token: MK3BmT0j7B4an7g5Gjo60sa6kgJfDUif
+2024-12-02 15:27:04,160 - INFO - Token is valid: MK3BmT0j7B4an7g5Gjo60sa6kgJfDUif
+2024-12-02 15:27:04,165 - INFO - Generated Token: FFM755NbBuDmxSG47NX3gm7LfXuSVmNE, Tokens Stored: ['vghY4li9PJIhJF1OL7PpJlsGcUIYzhFi', 'd04fg5udLptzWXeUoURB4arkOxwPlz1c', 'IsgGRYyvHZnGdOAtiXLtM0vmDmPbMpWg', 'GmYQ7zDfFWk2yHKIYDQkdLs3QAnnoZ5Z', 'MK3BmT0j7B4an7g5Gjo60sa6kgJfDUif', 'FFM755NbBuDmxSG47NX3gm7LfXuSVmNE']
+2024-12-02 15:27:04,167 - INFO - Authenticating token: FFM755NbBuDmxSG47NX3gm7LfXuSVmNE
+2024-12-02 15:27:04,167 - INFO - Token is valid: FFM755NbBuDmxSG47NX3gm7LfXuSVmNE
+2024-12-02 15:27:04,170 - INFO - Authenticating token: UUWVVKNzY9epqHKHcfOQ80QQFzK5d95r
+2024-12-02 15:27:04,170 - INFO - Token is invalid or expired: UUWVVKNzY9epqHKHcfOQ80QQFzK5d95r
+2024-12-02 15:27:04,171 - INFO - Generated Token: nxPr7oh9hhCB6jqgRtKJMql4nT0ynCL2, Tokens Stored: ['vghY4li9PJIhJF1OL7PpJlsGcUIYzhFi', 'd04fg5udLptzWXeUoURB4arkOxwPlz1c', 'IsgGRYyvHZnGdOAtiXLtM0vmDmPbMpWg', 'GmYQ7zDfFWk2yHKIYDQkdLs3QAnnoZ5Z', 'MK3BmT0j7B4an7g5Gjo60sa6kgJfDUif', 'FFM755NbBuDmxSG47NX3gm7LfXuSVmNE', 'UUWVVKNzY9epqHKHcfOQ80QQFzK5d95r', 'nxPr7oh9hhCB6jqgRtKJMql4nT0ynCL2']
+2024-12-02 15:27:04,172 - INFO - Authenticating token: nxPr7oh9hhCB6jqgRtKJMql4nT0ynCL2
+2024-12-02 15:27:04,172 - INFO - Token is valid: nxPr7oh9hhCB6jqgRtKJMql4nT0ynCL2
+2024-12-02 15:27:04,172 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer nxPr7oh9hhCB6jqgRtKJMql4nT0ynCL2'}
+2024-12-02 15:27:04,174 - INFO - Generated Token: JnsR6MNrPTNDGGqOhobBjwgCFt9u7lRQ, Tokens Stored: ['vghY4li9PJIhJF1OL7PpJlsGcUIYzhFi', 'd04fg5udLptzWXeUoURB4arkOxwPlz1c', 'IsgGRYyvHZnGdOAtiXLtM0vmDmPbMpWg', 'GmYQ7zDfFWk2yHKIYDQkdLs3QAnnoZ5Z', 'MK3BmT0j7B4an7g5Gjo60sa6kgJfDUif', 'FFM755NbBuDmxSG47NX3gm7LfXuSVmNE', 'UUWVVKNzY9epqHKHcfOQ80QQFzK5d95r', 'nxPr7oh9hhCB6jqgRtKJMql4nT0ynCL2', 'JnsR6MNrPTNDGGqOhobBjwgCFt9u7lRQ']
+2024-12-02 15:27:04,175 - INFO - Authenticating token: JnsR6MNrPTNDGGqOhobBjwgCFt9u7lRQ
+2024-12-02 15:27:04,175 - INFO - Token is valid: JnsR6MNrPTNDGGqOhobBjwgCFt9u7lRQ
+2024-12-02 15:27:09,328 - INFO - Generated Token: PBBY9HMqumPcq4ZOYN1f0ftmmynj9ytd, Tokens Stored: ['PBBY9HMqumPcq4ZOYN1f0ftmmynj9ytd']
+2024-12-02 15:27:09,331 - INFO - Generated Token: q97uBxDoMlSGMlCIJTF2ZzbrvAY18fAt, Tokens Stored: ['PBBY9HMqumPcq4ZOYN1f0ftmmynj9ytd', 'q97uBxDoMlSGMlCIJTF2ZzbrvAY18fAt']
+2024-12-02 15:27:09,332 - INFO - Authenticating token: q97uBxDoMlSGMlCIJTF2ZzbrvAY18fAt
+2024-12-02 15:27:09,332 - INFO - Token is valid: q97uBxDoMlSGMlCIJTF2ZzbrvAY18fAt
+2024-12-02 15:27:09,332 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer q97uBxDoMlSGMlCIJTF2ZzbrvAY18fAt'}
+2024-12-02 15:27:09,334 - INFO - Generated Token: 8tfsQwIByWh4KbZjEMBlgOA0xPMPcuah, Tokens Stored: ['PBBY9HMqumPcq4ZOYN1f0ftmmynj9ytd', 'q97uBxDoMlSGMlCIJTF2ZzbrvAY18fAt', '8tfsQwIByWh4KbZjEMBlgOA0xPMPcuah']
+2024-12-02 15:27:09,335 - INFO - Authenticating token: 8tfsQwIByWh4KbZjEMBlgOA0xPMPcuah
+2024-12-02 15:27:09,335 - INFO - Token is valid: 8tfsQwIByWh4KbZjEMBlgOA0xPMPcuah
+2024-12-02 15:27:09,337 - INFO - Generated Token: 6cCMWMY0JNK7dJf5gQJUg5FAaec3mciL, Tokens Stored: ['PBBY9HMqumPcq4ZOYN1f0ftmmynj9ytd', 'q97uBxDoMlSGMlCIJTF2ZzbrvAY18fAt', '8tfsQwIByWh4KbZjEMBlgOA0xPMPcuah', '6cCMWMY0JNK7dJf5gQJUg5FAaec3mciL']
+2024-12-02 15:27:09,338 - INFO - Authenticating token: 6cCMWMY0JNK7dJf5gQJUg5FAaec3mciL
+2024-12-02 15:27:09,338 - INFO - Token is valid: 6cCMWMY0JNK7dJf5gQJUg5FAaec3mciL
+2024-12-02 15:27:09,338 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer 6cCMWMY0JNK7dJf5gQJUg5FAaec3mciL'}
+2024-12-02 15:27:09,339 - INFO - Generated Token: SomKK69H45kUTfhJUq37DBaMkdOqcJxZ, Tokens Stored: ['PBBY9HMqumPcq4ZOYN1f0ftmmynj9ytd', 'q97uBxDoMlSGMlCIJTF2ZzbrvAY18fAt', '8tfsQwIByWh4KbZjEMBlgOA0xPMPcuah', '6cCMWMY0JNK7dJf5gQJUg5FAaec3mciL', 'SomKK69H45kUTfhJUq37DBaMkdOqcJxZ']
+2024-12-02 15:27:09,340 - INFO - Authenticating token: SomKK69H45kUTfhJUq37DBaMkdOqcJxZ
+2024-12-02 15:27:09,340 - INFO - Token is valid: SomKK69H45kUTfhJUq37DBaMkdOqcJxZ
+2024-12-02 15:27:09,345 - INFO - Generated Token: W1KrQeUicDWYByKy7xyWPKOLq4YAzRsE, Tokens Stored: ['PBBY9HMqumPcq4ZOYN1f0ftmmynj9ytd', 'q97uBxDoMlSGMlCIJTF2ZzbrvAY18fAt', '8tfsQwIByWh4KbZjEMBlgOA0xPMPcuah', '6cCMWMY0JNK7dJf5gQJUg5FAaec3mciL', 'SomKK69H45kUTfhJUq37DBaMkdOqcJxZ', 'W1KrQeUicDWYByKy7xyWPKOLq4YAzRsE']
+2024-12-02 15:27:09,346 - INFO - Authenticating token: W1KrQeUicDWYByKy7xyWPKOLq4YAzRsE
+2024-12-02 15:27:09,347 - INFO - Token is valid: W1KrQeUicDWYByKy7xyWPKOLq4YAzRsE
+2024-12-02 15:27:09,350 - INFO - Authenticating token: MxATWsvA995Rai9sxSu448eRrZ5Gzmvr
+2024-12-02 15:27:09,350 - INFO - Token is invalid or expired: MxATWsvA995Rai9sxSu448eRrZ5Gzmvr
+2024-12-02 15:27:09,352 - INFO - Generated Token: OQ2sUYgEwF38a6llws7tHi6g34M3arsF, Tokens Stored: ['PBBY9HMqumPcq4ZOYN1f0ftmmynj9ytd', 'q97uBxDoMlSGMlCIJTF2ZzbrvAY18fAt', '8tfsQwIByWh4KbZjEMBlgOA0xPMPcuah', '6cCMWMY0JNK7dJf5gQJUg5FAaec3mciL', 'SomKK69H45kUTfhJUq37DBaMkdOqcJxZ', 'W1KrQeUicDWYByKy7xyWPKOLq4YAzRsE', 'MxATWsvA995Rai9sxSu448eRrZ5Gzmvr', 'OQ2sUYgEwF38a6llws7tHi6g34M3arsF']
+2024-12-02 15:27:09,354 - INFO - Authenticating token: OQ2sUYgEwF38a6llws7tHi6g34M3arsF
+2024-12-02 15:27:09,354 - INFO - Token is valid: OQ2sUYgEwF38a6llws7tHi6g34M3arsF
+2024-12-02 15:27:09,354 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer OQ2sUYgEwF38a6llws7tHi6g34M3arsF'}
+2024-12-02 15:27:09,356 - INFO - Generated Token: Trrv4FfUnqLQFsrfneK99ZDWvau8slCt, Tokens Stored: ['PBBY9HMqumPcq4ZOYN1f0ftmmynj9ytd', 'q97uBxDoMlSGMlCIJTF2ZzbrvAY18fAt', '8tfsQwIByWh4KbZjEMBlgOA0xPMPcuah', '6cCMWMY0JNK7dJf5gQJUg5FAaec3mciL', 'SomKK69H45kUTfhJUq37DBaMkdOqcJxZ', 'W1KrQeUicDWYByKy7xyWPKOLq4YAzRsE', 'MxATWsvA995Rai9sxSu448eRrZ5Gzmvr', 'OQ2sUYgEwF38a6llws7tHi6g34M3arsF', 'Trrv4FfUnqLQFsrfneK99ZDWvau8slCt']
+2024-12-02 15:27:09,358 - INFO - Authenticating token: Trrv4FfUnqLQFsrfneK99ZDWvau8slCt
+2024-12-02 15:27:09,358 - INFO - Token is valid: Trrv4FfUnqLQFsrfneK99ZDWvau8slCt
+2024-12-02 15:27:23,513 - INFO - Generated Token: 7cYvOrwUzrLLQCJbpfyrPvzPbznoMOrY, Tokens Stored: ['7cYvOrwUzrLLQCJbpfyrPvzPbznoMOrY']
+2024-12-02 15:27:23,516 - INFO - Generated Token: wpA66noA1NQMYEX1zx871H1lmoD2kUha, Tokens Stored: ['7cYvOrwUzrLLQCJbpfyrPvzPbznoMOrY', 'wpA66noA1NQMYEX1zx871H1lmoD2kUha']
+2024-12-02 15:27:23,517 - INFO - Authenticating token: wpA66noA1NQMYEX1zx871H1lmoD2kUha
+2024-12-02 15:27:23,517 - INFO - Token is valid: wpA66noA1NQMYEX1zx871H1lmoD2kUha
+2024-12-02 15:27:23,517 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer wpA66noA1NQMYEX1zx871H1lmoD2kUha'}
+2024-12-02 15:27:23,519 - INFO - Generated Token: cNCkpayJ656kh2LFJcDWLuNIBCRTBQyq, Tokens Stored: ['7cYvOrwUzrLLQCJbpfyrPvzPbznoMOrY', 'wpA66noA1NQMYEX1zx871H1lmoD2kUha', 'cNCkpayJ656kh2LFJcDWLuNIBCRTBQyq']
+2024-12-02 15:27:23,520 - INFO - Authenticating token: cNCkpayJ656kh2LFJcDWLuNIBCRTBQyq
+2024-12-02 15:27:23,520 - INFO - Token is valid: cNCkpayJ656kh2LFJcDWLuNIBCRTBQyq
+2024-12-02 15:27:23,522 - INFO - Generated Token: zyQpwbKfUSjpjOfonp71szlKEWeDap82, Tokens Stored: ['7cYvOrwUzrLLQCJbpfyrPvzPbznoMOrY', 'wpA66noA1NQMYEX1zx871H1lmoD2kUha', 'cNCkpayJ656kh2LFJcDWLuNIBCRTBQyq', 'zyQpwbKfUSjpjOfonp71szlKEWeDap82']
+2024-12-02 15:27:23,523 - INFO - Authenticating token: zyQpwbKfUSjpjOfonp71szlKEWeDap82
+2024-12-02 15:27:23,523 - INFO - Token is valid: zyQpwbKfUSjpjOfonp71szlKEWeDap82
+2024-12-02 15:27:23,523 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer zyQpwbKfUSjpjOfonp71szlKEWeDap82'}
+2024-12-02 15:27:23,524 - INFO - Generated Token: dQwiWGy17UNpiwPfpW4mwsoM4HZ54VQL, Tokens Stored: ['7cYvOrwUzrLLQCJbpfyrPvzPbznoMOrY', 'wpA66noA1NQMYEX1zx871H1lmoD2kUha', 'cNCkpayJ656kh2LFJcDWLuNIBCRTBQyq', 'zyQpwbKfUSjpjOfonp71szlKEWeDap82', 'dQwiWGy17UNpiwPfpW4mwsoM4HZ54VQL']
+2024-12-02 15:27:23,525 - INFO - Authenticating token: dQwiWGy17UNpiwPfpW4mwsoM4HZ54VQL
+2024-12-02 15:27:23,525 - INFO - Token is valid: dQwiWGy17UNpiwPfpW4mwsoM4HZ54VQL
+2024-12-02 15:27:23,530 - INFO - Generated Token: tmEpODqllsjn6fa3ohd4Z5WvNyKabCGs, Tokens Stored: ['7cYvOrwUzrLLQCJbpfyrPvzPbznoMOrY', 'wpA66noA1NQMYEX1zx871H1lmoD2kUha', 'cNCkpayJ656kh2LFJcDWLuNIBCRTBQyq', 'zyQpwbKfUSjpjOfonp71szlKEWeDap82', 'dQwiWGy17UNpiwPfpW4mwsoM4HZ54VQL', 'tmEpODqllsjn6fa3ohd4Z5WvNyKabCGs']
+2024-12-02 15:27:23,532 - INFO - Authenticating token: tmEpODqllsjn6fa3ohd4Z5WvNyKabCGs
+2024-12-02 15:27:23,532 - INFO - Token is valid: tmEpODqllsjn6fa3ohd4Z5WvNyKabCGs
+2024-12-02 15:27:23,535 - INFO - Authenticating token: tZpcHVjxYkL9mRUso3aS7ln3lXrmpWMr
+2024-12-02 15:27:23,535 - INFO - Token is invalid or expired: tZpcHVjxYkL9mRUso3aS7ln3lXrmpWMr
+2024-12-02 15:27:23,536 - INFO - Generated Token: ADoDalH2uWMeCDEWSVNO6lCoFkAEFhwj, Tokens Stored: ['7cYvOrwUzrLLQCJbpfyrPvzPbznoMOrY', 'wpA66noA1NQMYEX1zx871H1lmoD2kUha', 'cNCkpayJ656kh2LFJcDWLuNIBCRTBQyq', 'zyQpwbKfUSjpjOfonp71szlKEWeDap82', 'dQwiWGy17UNpiwPfpW4mwsoM4HZ54VQL', 'tmEpODqllsjn6fa3ohd4Z5WvNyKabCGs', 'tZpcHVjxYkL9mRUso3aS7ln3lXrmpWMr', 'ADoDalH2uWMeCDEWSVNO6lCoFkAEFhwj']
+2024-12-02 15:27:23,537 - INFO - Authenticating token: ADoDalH2uWMeCDEWSVNO6lCoFkAEFhwj
+2024-12-02 15:27:23,537 - INFO - Token is valid: ADoDalH2uWMeCDEWSVNO6lCoFkAEFhwj
+2024-12-02 15:27:23,537 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer ADoDalH2uWMeCDEWSVNO6lCoFkAEFhwj'}
+2024-12-02 15:27:23,539 - INFO - Generated Token: bMF3FtPucMfRwvHyvc01qc2JXVzL2YcI, Tokens Stored: ['7cYvOrwUzrLLQCJbpfyrPvzPbznoMOrY', 'wpA66noA1NQMYEX1zx871H1lmoD2kUha', 'cNCkpayJ656kh2LFJcDWLuNIBCRTBQyq', 'zyQpwbKfUSjpjOfonp71szlKEWeDap82', 'dQwiWGy17UNpiwPfpW4mwsoM4HZ54VQL', 'tmEpODqllsjn6fa3ohd4Z5WvNyKabCGs', 'tZpcHVjxYkL9mRUso3aS7ln3lXrmpWMr', 'ADoDalH2uWMeCDEWSVNO6lCoFkAEFhwj', 'bMF3FtPucMfRwvHyvc01qc2JXVzL2YcI']
+2024-12-02 15:27:23,540 - INFO - Authenticating token: bMF3FtPucMfRwvHyvc01qc2JXVzL2YcI
+2024-12-02 15:27:23,540 - INFO - Token is valid: bMF3FtPucMfRwvHyvc01qc2JXVzL2YcI
+2024-12-02 15:27:59,581 - INFO - Authenticating token: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR
+2024-12-02 15:27:59,581 - INFO - Token is invalid or expired: qZE4VZ0e4WwVWc77R7DJmzEFFL1A2URR
+2024-12-02 15:28:03,467 - INFO - Generated Token: u0sZjhAbio7jszwz7zrQFDLAbDY6fuZg, Tokens Stored: ['u0sZjhAbio7jszwz7zrQFDLAbDY6fuZg']
+2024-12-02 15:28:15,419 - INFO - Authenticating token: u0sZjhAbio7jszwz7zrQFDLAbDY6fuZg
+2024-12-02 15:28:15,419 - INFO - Token is valid: u0sZjhAbio7jszwz7zrQFDLAbDY6fuZg
+2024-12-02 15:28:16,093 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 150.25}, {'key': 'stock_AAPL_max_price', 'value': 155.0}, {'key': 'stock_AAPL_min_price', 'value': 145.0}, {'key': 'stock_AAPL_total_volume', 'value': 123456789}, {'key': 'stock_MSFT_avg_price', 'value': 280.75}, {'key': 'stock_MSFT_max_price', 'value': 285.0}, {'key': 'stock_MSFT_min_price', 'value': 275.0}, {'key': 'stock_MSFT_total_volume', 'value': 987654321}, {'key': 'weather_Ljubljana_temperature', 'value': 10.5}, {'key': 'weather_Ljubljana_humidity', 'value': 80}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5.5}, {'key': 'weather_Ljubljana_pressure', 'value': 1015}, {'key': 'weather_Maribor_temperature', 'value': 12.0}, {'key': 'weather_Maribor_humidity', 'value': 75}, {'key': 'weather_Maribor_wind_speed', 'value': 6.0}, {'key': 'weather_Maribor_pressure', 'value': 1012}, {'key': 'weather_Ptuj_temperature', 'value': 9.8}, {'key': 'weather_Ptuj_humidity', 'value': 85}, {'key': 'weather_Ptuj_wind_speed', 'value': 4.0}, {'key': 'weather_Ptuj_pressure', 'value': 1018}], Status: Success
+2024-12-02 15:30:02,488 - INFO - Generated Token: vzup3d0zlKHyv2bqGW0iKg7fBdfPTyIj, Tokens Stored: ['vzup3d0zlKHyv2bqGW0iKg7fBdfPTyIj']
+2024-12-02 15:30:02,491 - INFO - Generated Token: ymgNQejhjeDHUZASHSpoEtLpAEu1zAKk, Tokens Stored: ['vzup3d0zlKHyv2bqGW0iKg7fBdfPTyIj', 'ymgNQejhjeDHUZASHSpoEtLpAEu1zAKk']
+2024-12-02 15:30:02,492 - INFO - Authenticating token: ymgNQejhjeDHUZASHSpoEtLpAEu1zAKk
+2024-12-02 15:30:02,493 - INFO - Token is valid: ymgNQejhjeDHUZASHSpoEtLpAEu1zAKk
+2024-12-02 15:30:02,493 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer ymgNQejhjeDHUZASHSpoEtLpAEu1zAKk'}
+2024-12-02 15:30:02,494 - INFO - Generated Token: 3YETRZiHqKMyeqti4QmMq9QCuS4chIWP, Tokens Stored: ['vzup3d0zlKHyv2bqGW0iKg7fBdfPTyIj', 'ymgNQejhjeDHUZASHSpoEtLpAEu1zAKk', '3YETRZiHqKMyeqti4QmMq9QCuS4chIWP']
+2024-12-02 15:30:02,495 - INFO - Authenticating token: 3YETRZiHqKMyeqti4QmMq9QCuS4chIWP
+2024-12-02 15:30:02,496 - INFO - Token is valid: 3YETRZiHqKMyeqti4QmMq9QCuS4chIWP
+2024-12-02 15:30:02,497 - INFO - Generated Token: M0DTlw5xxY19OO7izBaB9HQoLppVwANC, Tokens Stored: ['vzup3d0zlKHyv2bqGW0iKg7fBdfPTyIj', 'ymgNQejhjeDHUZASHSpoEtLpAEu1zAKk', '3YETRZiHqKMyeqti4QmMq9QCuS4chIWP', 'M0DTlw5xxY19OO7izBaB9HQoLppVwANC']
+2024-12-02 15:30:02,498 - INFO - Authenticating token: M0DTlw5xxY19OO7izBaB9HQoLppVwANC
+2024-12-02 15:30:02,498 - INFO - Token is valid: M0DTlw5xxY19OO7izBaB9HQoLppVwANC
+2024-12-02 15:30:02,498 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer M0DTlw5xxY19OO7izBaB9HQoLppVwANC'}
+2024-12-02 15:30:02,500 - INFO - Generated Token: X7srOQMbC0CJqNRxzCu66teX2tnBvRIf, Tokens Stored: ['vzup3d0zlKHyv2bqGW0iKg7fBdfPTyIj', 'ymgNQejhjeDHUZASHSpoEtLpAEu1zAKk', '3YETRZiHqKMyeqti4QmMq9QCuS4chIWP', 'M0DTlw5xxY19OO7izBaB9HQoLppVwANC', 'X7srOQMbC0CJqNRxzCu66teX2tnBvRIf']
+2024-12-02 15:30:02,501 - INFO - Authenticating token: X7srOQMbC0CJqNRxzCu66teX2tnBvRIf
+2024-12-02 15:30:02,501 - INFO - Token is valid: X7srOQMbC0CJqNRxzCu66teX2tnBvRIf
+2024-12-02 15:30:02,506 - INFO - Generated Token: Ipq8qwaPNryj9Y9FQwEMfy40ra11qX3G, Tokens Stored: ['vzup3d0zlKHyv2bqGW0iKg7fBdfPTyIj', 'ymgNQejhjeDHUZASHSpoEtLpAEu1zAKk', '3YETRZiHqKMyeqti4QmMq9QCuS4chIWP', 'M0DTlw5xxY19OO7izBaB9HQoLppVwANC', 'X7srOQMbC0CJqNRxzCu66teX2tnBvRIf', 'Ipq8qwaPNryj9Y9FQwEMfy40ra11qX3G']
+2024-12-02 15:30:02,507 - INFO - Authenticating token: Ipq8qwaPNryj9Y9FQwEMfy40ra11qX3G
+2024-12-02 15:30:02,507 - INFO - Token is valid: Ipq8qwaPNryj9Y9FQwEMfy40ra11qX3G
+2024-12-02 15:30:02,510 - INFO - Authenticating token: AQ05VxocO6pZ3nV21XDRAlDcrL2d8gnF
+2024-12-02 15:30:02,510 - INFO - Token is invalid or expired: AQ05VxocO6pZ3nV21XDRAlDcrL2d8gnF
+2024-12-02 15:30:02,512 - INFO - Generated Token: J31iPhmOKX5rEi2O1q6xK9en6bANMbNL, Tokens Stored: ['vzup3d0zlKHyv2bqGW0iKg7fBdfPTyIj', 'ymgNQejhjeDHUZASHSpoEtLpAEu1zAKk', '3YETRZiHqKMyeqti4QmMq9QCuS4chIWP', 'M0DTlw5xxY19OO7izBaB9HQoLppVwANC', 'X7srOQMbC0CJqNRxzCu66teX2tnBvRIf', 'Ipq8qwaPNryj9Y9FQwEMfy40ra11qX3G', 'AQ05VxocO6pZ3nV21XDRAlDcrL2d8gnF', 'J31iPhmOKX5rEi2O1q6xK9en6bANMbNL']
+2024-12-02 15:30:02,513 - INFO - Authenticating token: J31iPhmOKX5rEi2O1q6xK9en6bANMbNL
+2024-12-02 15:30:02,513 - INFO - Token is valid: J31iPhmOKX5rEi2O1q6xK9en6bANMbNL
+2024-12-02 15:30:02,513 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer J31iPhmOKX5rEi2O1q6xK9en6bANMbNL'}
+2024-12-02 15:30:02,514 - INFO - Generated Token: ZQmMOdaOzeAdJK6K4m2SNPd7qb9oLVIJ, Tokens Stored: ['vzup3d0zlKHyv2bqGW0iKg7fBdfPTyIj', 'ymgNQejhjeDHUZASHSpoEtLpAEu1zAKk', '3YETRZiHqKMyeqti4QmMq9QCuS4chIWP', 'M0DTlw5xxY19OO7izBaB9HQoLppVwANC', 'X7srOQMbC0CJqNRxzCu66teX2tnBvRIf', 'Ipq8qwaPNryj9Y9FQwEMfy40ra11qX3G', 'AQ05VxocO6pZ3nV21XDRAlDcrL2d8gnF', 'J31iPhmOKX5rEi2O1q6xK9en6bANMbNL', 'ZQmMOdaOzeAdJK6K4m2SNPd7qb9oLVIJ']
+2024-12-02 15:30:02,515 - INFO - Authenticating token: ZQmMOdaOzeAdJK6K4m2SNPd7qb9oLVIJ
+2024-12-02 15:30:02,516 - INFO - Token is valid: ZQmMOdaOzeAdJK6K4m2SNPd7qb9oLVIJ
+2024-12-02 15:37:00,376 - INFO - Generated Token: 992B1uMYfQhgFAqykdjUzqd8LDjght8p, Tokens Stored: ['992B1uMYfQhgFAqykdjUzqd8LDjght8p']
+2024-12-02 15:37:11,369 - INFO - Authenticating token: 992B1uMYfQhgFAqykdjUzqd8LDjght8p
+2024-12-02 15:37:11,369 - INFO - Token is valid: 992B1uMYfQhgFAqykdjUzqd8LDjght8p
+2024-12-02 15:37:11,369 - DEBUG - Request Headers: {'Host': '153.5.66.230:5022', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'Accept': 'application/json', 'Authorization': 'Bearer 992B1uMYfQhgFAqykdjUzqd8LDjght8p', 'Referer': 'http://153.5.66.230:5022/', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'sl,en-US;q=0.9,en;q=0.8', 'Cookie': 'csrftoken=oadNbRU6ztB1HNQumVxOc84k7OE8Abse'}
+2024-12-02 15:37:19,009 - INFO - Authenticating token: 992B1uMYfQhgFAqykdjUzqd8LDjght8p
+2024-12-02 15:37:19,009 - INFO - Token is valid: 992B1uMYfQhgFAqykdjUzqd8LDjght8p
+2024-12-02 15:37:36,446 - INFO - Authenticating token: CuMeMXoSJzvyCL14bnFJE9lbiA4h7mRC
+2024-12-02 15:37:36,446 - INFO - Token is invalid or expired: CuMeMXoSJzvyCL14bnFJE9lbiA4h7mRC
+2024-12-02 15:39:37,901 - INFO - Generated Token: QD8XG6FZAG07KDqe2FrqoXrYr5JZo7qK, Tokens Stored: ['QD8XG6FZAG07KDqe2FrqoXrYr5JZo7qK']
+2024-12-02 15:39:37,903 - INFO - Generated Token: iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q, Tokens Stored: ['QD8XG6FZAG07KDqe2FrqoXrYr5JZo7qK', 'iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q']
+2024-12-02 15:39:37,905 - INFO - Authenticating token: iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q
+2024-12-02 15:39:37,905 - INFO - Token is valid: iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q
+2024-12-02 15:39:37,905 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q'}
+2024-12-02 15:39:37,907 - INFO - Generated Token: oka8ESBybl2njeysU0etUeC4YLzXSXvn, Tokens Stored: ['QD8XG6FZAG07KDqe2FrqoXrYr5JZo7qK', 'iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q', 'oka8ESBybl2njeysU0etUeC4YLzXSXvn']
+2024-12-02 15:39:37,908 - INFO - Authenticating token: oka8ESBybl2njeysU0etUeC4YLzXSXvn
+2024-12-02 15:39:37,908 - INFO - Token is valid: oka8ESBybl2njeysU0etUeC4YLzXSXvn
+2024-12-02 15:39:37,909 - INFO - Generated Token: oh1Vvxanr4smL5Ap6Yev9oujyzhlo2Mf, Tokens Stored: ['QD8XG6FZAG07KDqe2FrqoXrYr5JZo7qK', 'iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q', 'oka8ESBybl2njeysU0etUeC4YLzXSXvn', 'oh1Vvxanr4smL5Ap6Yev9oujyzhlo2Mf']
+2024-12-02 15:39:37,910 - INFO - Authenticating token: oh1Vvxanr4smL5Ap6Yev9oujyzhlo2Mf
+2024-12-02 15:39:37,911 - INFO - Token is valid: oh1Vvxanr4smL5Ap6Yev9oujyzhlo2Mf
+2024-12-02 15:39:37,911 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer oh1Vvxanr4smL5Ap6Yev9oujyzhlo2Mf'}
+2024-12-02 15:39:37,912 - INFO - Generated Token: 7fUW9e90PfvpkEFy1mrkvZb1guqRmkHd, Tokens Stored: ['QD8XG6FZAG07KDqe2FrqoXrYr5JZo7qK', 'iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q', 'oka8ESBybl2njeysU0etUeC4YLzXSXvn', 'oh1Vvxanr4smL5Ap6Yev9oujyzhlo2Mf', '7fUW9e90PfvpkEFy1mrkvZb1guqRmkHd']
+2024-12-02 15:39:37,913 - INFO - Authenticating token: 7fUW9e90PfvpkEFy1mrkvZb1guqRmkHd
+2024-12-02 15:39:37,913 - INFO - Token is valid: 7fUW9e90PfvpkEFy1mrkvZb1guqRmkHd
+2024-12-02 15:39:37,918 - INFO - Generated Token: TfSJN1S1scy01s6Cdp8cyT46nsHaTD99, Tokens Stored: ['QD8XG6FZAG07KDqe2FrqoXrYr5JZo7qK', 'iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q', 'oka8ESBybl2njeysU0etUeC4YLzXSXvn', 'oh1Vvxanr4smL5Ap6Yev9oujyzhlo2Mf', '7fUW9e90PfvpkEFy1mrkvZb1guqRmkHd', 'TfSJN1S1scy01s6Cdp8cyT46nsHaTD99']
+2024-12-02 15:39:37,919 - INFO - Authenticating token: TfSJN1S1scy01s6Cdp8cyT46nsHaTD99
+2024-12-02 15:39:37,920 - INFO - Token is valid: TfSJN1S1scy01s6Cdp8cyT46nsHaTD99
+2024-12-02 15:39:37,922 - INFO - Authenticating token: HyEJnzRlrcLBcEPzt6L8mxEHk1gHCpwH
+2024-12-02 15:39:37,922 - INFO - Token is invalid or expired: HyEJnzRlrcLBcEPzt6L8mxEHk1gHCpwH
+2024-12-02 15:39:37,924 - INFO - Generated Token: vJfONEtwjFQawwu1b3BxA4dmMJ1sDw3o, Tokens Stored: ['QD8XG6FZAG07KDqe2FrqoXrYr5JZo7qK', 'iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q', 'oka8ESBybl2njeysU0etUeC4YLzXSXvn', 'oh1Vvxanr4smL5Ap6Yev9oujyzhlo2Mf', '7fUW9e90PfvpkEFy1mrkvZb1guqRmkHd', 'TfSJN1S1scy01s6Cdp8cyT46nsHaTD99', 'HyEJnzRlrcLBcEPzt6L8mxEHk1gHCpwH', 'vJfONEtwjFQawwu1b3BxA4dmMJ1sDw3o']
+2024-12-02 15:39:37,925 - INFO - Authenticating token: vJfONEtwjFQawwu1b3BxA4dmMJ1sDw3o
+2024-12-02 15:39:37,925 - INFO - Token is valid: vJfONEtwjFQawwu1b3BxA4dmMJ1sDw3o
+2024-12-02 15:39:37,925 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer vJfONEtwjFQawwu1b3BxA4dmMJ1sDw3o'}
+2024-12-02 15:39:37,926 - INFO - Generated Token: q62sgVztXDdr2FQMUO03rmEzaLse0Hbf, Tokens Stored: ['QD8XG6FZAG07KDqe2FrqoXrYr5JZo7qK', 'iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q', 'oka8ESBybl2njeysU0etUeC4YLzXSXvn', 'oh1Vvxanr4smL5Ap6Yev9oujyzhlo2Mf', '7fUW9e90PfvpkEFy1mrkvZb1guqRmkHd', 'TfSJN1S1scy01s6Cdp8cyT46nsHaTD99', 'HyEJnzRlrcLBcEPzt6L8mxEHk1gHCpwH', 'vJfONEtwjFQawwu1b3BxA4dmMJ1sDw3o', 'q62sgVztXDdr2FQMUO03rmEzaLse0Hbf']
+2024-12-02 15:39:37,927 - INFO - Authenticating token: q62sgVztXDdr2FQMUO03rmEzaLse0Hbf
+2024-12-02 15:39:37,928 - INFO - Token is valid: q62sgVztXDdr2FQMUO03rmEzaLse0Hbf
+2024-12-02 15:39:37,929 - INFO - Generated Token: Yato7OycNos23a1bzbn6qP9TPDGozsn6, Tokens Stored: ['QD8XG6FZAG07KDqe2FrqoXrYr5JZo7qK', 'iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q', 'oka8ESBybl2njeysU0etUeC4YLzXSXvn', 'oh1Vvxanr4smL5Ap6Yev9oujyzhlo2Mf', '7fUW9e90PfvpkEFy1mrkvZb1guqRmkHd', 'TfSJN1S1scy01s6Cdp8cyT46nsHaTD99', 'HyEJnzRlrcLBcEPzt6L8mxEHk1gHCpwH', 'vJfONEtwjFQawwu1b3BxA4dmMJ1sDw3o', 'q62sgVztXDdr2FQMUO03rmEzaLse0Hbf', 'Yato7OycNos23a1bzbn6qP9TPDGozsn6']
+2024-12-02 15:39:37,930 - INFO - Authenticating token: Yato7OycNos23a1bzbn6qP9TPDGozsn6
+2024-12-02 15:39:37,930 - INFO - Token is valid: Yato7OycNos23a1bzbn6qP9TPDGozsn6
+2024-12-02 15:39:37,930 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer Yato7OycNos23a1bzbn6qP9TPDGozsn6'}
+2024-12-02 15:39:37,932 - INFO - Generated Token: QolJa1aAQbTSQ50ZLWH7a6aHo0FS6Yo2, Tokens Stored: ['QD8XG6FZAG07KDqe2FrqoXrYr5JZo7qK', 'iQXNWGDb5OeZXF9tER2fGDoANx7Qoh9Q', 'oka8ESBybl2njeysU0etUeC4YLzXSXvn', 'oh1Vvxanr4smL5Ap6Yev9oujyzhlo2Mf', '7fUW9e90PfvpkEFy1mrkvZb1guqRmkHd', 'TfSJN1S1scy01s6Cdp8cyT46nsHaTD99', 'HyEJnzRlrcLBcEPzt6L8mxEHk1gHCpwH', 'vJfONEtwjFQawwu1b3BxA4dmMJ1sDw3o', 'q62sgVztXDdr2FQMUO03rmEzaLse0Hbf', 'Yato7OycNos23a1bzbn6qP9TPDGozsn6', 'QolJa1aAQbTSQ50ZLWH7a6aHo0FS6Yo2']
+2024-12-02 15:39:37,934 - INFO - Authenticating token: QolJa1aAQbTSQ50ZLWH7a6aHo0FS6Yo2
+2024-12-02 15:39:37,934 - INFO - Token is valid: QolJa1aAQbTSQ50ZLWH7a6aHo0FS6Yo2
+2024-12-02 15:39:44,637 - INFO - Generated Token: LbCZWeokMjOGgtpD6tnRw9PqiPPFpUnv, Tokens Stored: ['LbCZWeokMjOGgtpD6tnRw9PqiPPFpUnv']
+2024-12-02 15:39:44,640 - INFO - Generated Token: fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y, Tokens Stored: ['LbCZWeokMjOGgtpD6tnRw9PqiPPFpUnv', 'fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y']
+2024-12-02 15:39:44,641 - INFO - Authenticating token: fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y
+2024-12-02 15:39:44,641 - INFO - Token is valid: fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y
+2024-12-02 15:39:44,641 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y'}
+2024-12-02 15:39:44,643 - INFO - Generated Token: uWxgGGer1eqvT7cPAI5stO22LJPiMiwt, Tokens Stored: ['LbCZWeokMjOGgtpD6tnRw9PqiPPFpUnv', 'fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y', 'uWxgGGer1eqvT7cPAI5stO22LJPiMiwt']
+2024-12-02 15:39:44,644 - INFO - Authenticating token: uWxgGGer1eqvT7cPAI5stO22LJPiMiwt
+2024-12-02 15:39:44,644 - INFO - Token is valid: uWxgGGer1eqvT7cPAI5stO22LJPiMiwt
+2024-12-02 15:39:44,645 - INFO - Generated Token: zHh0YXiMDKfCmtA86Nup3uMxNRcLxpA8, Tokens Stored: ['LbCZWeokMjOGgtpD6tnRw9PqiPPFpUnv', 'fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y', 'uWxgGGer1eqvT7cPAI5stO22LJPiMiwt', 'zHh0YXiMDKfCmtA86Nup3uMxNRcLxpA8']
+2024-12-02 15:39:44,647 - INFO - Authenticating token: zHh0YXiMDKfCmtA86Nup3uMxNRcLxpA8
+2024-12-02 15:39:44,647 - INFO - Token is valid: zHh0YXiMDKfCmtA86Nup3uMxNRcLxpA8
+2024-12-02 15:39:44,647 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer zHh0YXiMDKfCmtA86Nup3uMxNRcLxpA8'}
+2024-12-02 15:39:44,648 - INFO - Generated Token: 23DVUlYoyb9vUwvoYPPzQVDQv1tWrozC, Tokens Stored: ['LbCZWeokMjOGgtpD6tnRw9PqiPPFpUnv', 'fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y', 'uWxgGGer1eqvT7cPAI5stO22LJPiMiwt', 'zHh0YXiMDKfCmtA86Nup3uMxNRcLxpA8', '23DVUlYoyb9vUwvoYPPzQVDQv1tWrozC']
+2024-12-02 15:39:44,649 - INFO - Authenticating token: 23DVUlYoyb9vUwvoYPPzQVDQv1tWrozC
+2024-12-02 15:39:44,649 - INFO - Token is valid: 23DVUlYoyb9vUwvoYPPzQVDQv1tWrozC
+2024-12-02 15:39:44,654 - INFO - Generated Token: rOrLrNuLDNLMAiduoKcRAKKUmI9rM6QD, Tokens Stored: ['LbCZWeokMjOGgtpD6tnRw9PqiPPFpUnv', 'fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y', 'uWxgGGer1eqvT7cPAI5stO22LJPiMiwt', 'zHh0YXiMDKfCmtA86Nup3uMxNRcLxpA8', '23DVUlYoyb9vUwvoYPPzQVDQv1tWrozC', 'rOrLrNuLDNLMAiduoKcRAKKUmI9rM6QD']
+2024-12-02 15:39:44,655 - INFO - Authenticating token: rOrLrNuLDNLMAiduoKcRAKKUmI9rM6QD
+2024-12-02 15:39:44,655 - INFO - Token is valid: rOrLrNuLDNLMAiduoKcRAKKUmI9rM6QD
+2024-12-02 15:39:44,658 - INFO - Authenticating token: dHp2hmq6vOhtseJNyYWQ57BBPxYFJk6J
+2024-12-02 15:39:44,658 - INFO - Token is invalid or expired: dHp2hmq6vOhtseJNyYWQ57BBPxYFJk6J
+2024-12-02 15:39:44,659 - INFO - Generated Token: YR3GgF0lmXJz04eLy8OlM27G6Zb4nzj8, Tokens Stored: ['LbCZWeokMjOGgtpD6tnRw9PqiPPFpUnv', 'fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y', 'uWxgGGer1eqvT7cPAI5stO22LJPiMiwt', 'zHh0YXiMDKfCmtA86Nup3uMxNRcLxpA8', '23DVUlYoyb9vUwvoYPPzQVDQv1tWrozC', 'rOrLrNuLDNLMAiduoKcRAKKUmI9rM6QD', 'dHp2hmq6vOhtseJNyYWQ57BBPxYFJk6J', 'YR3GgF0lmXJz04eLy8OlM27G6Zb4nzj8']
+2024-12-02 15:39:44,660 - INFO - Authenticating token: YR3GgF0lmXJz04eLy8OlM27G6Zb4nzj8
+2024-12-02 15:39:44,661 - INFO - Token is valid: YR3GgF0lmXJz04eLy8OlM27G6Zb4nzj8
+2024-12-02 15:39:44,661 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer YR3GgF0lmXJz04eLy8OlM27G6Zb4nzj8'}
+2024-12-02 15:39:44,662 - INFO - Generated Token: 9mtZDbLJ6TZkpnB3JtE8q76onYYmn5XU, Tokens Stored: ['LbCZWeokMjOGgtpD6tnRw9PqiPPFpUnv', 'fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y', 'uWxgGGer1eqvT7cPAI5stO22LJPiMiwt', 'zHh0YXiMDKfCmtA86Nup3uMxNRcLxpA8', '23DVUlYoyb9vUwvoYPPzQVDQv1tWrozC', 'rOrLrNuLDNLMAiduoKcRAKKUmI9rM6QD', 'dHp2hmq6vOhtseJNyYWQ57BBPxYFJk6J', 'YR3GgF0lmXJz04eLy8OlM27G6Zb4nzj8', '9mtZDbLJ6TZkpnB3JtE8q76onYYmn5XU']
+2024-12-02 15:39:44,663 - INFO - Authenticating token: 9mtZDbLJ6TZkpnB3JtE8q76onYYmn5XU
+2024-12-02 15:39:44,663 - INFO - Token is valid: 9mtZDbLJ6TZkpnB3JtE8q76onYYmn5XU
+2024-12-02 15:39:44,665 - INFO - Generated Token: QH1QvAVRS8h8ARsGhdsQISBjGim6SNsp, Tokens Stored: ['LbCZWeokMjOGgtpD6tnRw9PqiPPFpUnv', 'fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y', 'uWxgGGer1eqvT7cPAI5stO22LJPiMiwt', 'zHh0YXiMDKfCmtA86Nup3uMxNRcLxpA8', '23DVUlYoyb9vUwvoYPPzQVDQv1tWrozC', 'rOrLrNuLDNLMAiduoKcRAKKUmI9rM6QD', 'dHp2hmq6vOhtseJNyYWQ57BBPxYFJk6J', 'YR3GgF0lmXJz04eLy8OlM27G6Zb4nzj8', '9mtZDbLJ6TZkpnB3JtE8q76onYYmn5XU', 'QH1QvAVRS8h8ARsGhdsQISBjGim6SNsp']
+2024-12-02 15:39:44,666 - INFO - Authenticating token: QH1QvAVRS8h8ARsGhdsQISBjGim6SNsp
+2024-12-02 15:39:44,667 - INFO - Token is valid: QH1QvAVRS8h8ARsGhdsQISBjGim6SNsp
+2024-12-02 15:39:44,667 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer QH1QvAVRS8h8ARsGhdsQISBjGim6SNsp'}
+2024-12-02 15:39:44,669 - INFO - Generated Token: Ulud8F95DwbYel5heCI4GttzdG4PeGaW, Tokens Stored: ['LbCZWeokMjOGgtpD6tnRw9PqiPPFpUnv', 'fv0AlVvlaMdMuhLT7RlqHKyAzgKzr88Y', 'uWxgGGer1eqvT7cPAI5stO22LJPiMiwt', 'zHh0YXiMDKfCmtA86Nup3uMxNRcLxpA8', '23DVUlYoyb9vUwvoYPPzQVDQv1tWrozC', 'rOrLrNuLDNLMAiduoKcRAKKUmI9rM6QD', 'dHp2hmq6vOhtseJNyYWQ57BBPxYFJk6J', 'YR3GgF0lmXJz04eLy8OlM27G6Zb4nzj8', '9mtZDbLJ6TZkpnB3JtE8q76onYYmn5XU', 'QH1QvAVRS8h8ARsGhdsQISBjGim6SNsp', 'Ulud8F95DwbYel5heCI4GttzdG4PeGaW']
+2024-12-02 15:39:44,671 - INFO - Authenticating token: Ulud8F95DwbYel5heCI4GttzdG4PeGaW
+2024-12-02 15:39:44,671 - INFO - Token is valid: Ulud8F95DwbYel5heCI4GttzdG4PeGaW
+2024-12-02 19:02:15,738 - INFO - Generated Token: O5pIwIK3Iq3VjREz2JGQMTVOvtm6oL6B, Tokens Stored: ['O5pIwIK3Iq3VjREz2JGQMTVOvtm6oL6B']
+2024-12-02 19:02:24,506 - INFO - Authenticating token: O5pIwIK3Iq3VjREz2JGQMTVOvtm6oL6B
+2024-12-02 19:02:24,506 - INFO - Token is valid: O5pIwIK3Iq3VjREz2JGQMTVOvtm6oL6B
+2024-12-02 19:02:27,409 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': 0}, {'key': 'weather_Ljubljana_humidity', 'value': 93}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1022}, {'key': 'weather_Maribor_temperature', 'value': 3}, {'key': 'weather_Maribor_humidity', 'value': 87}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1022}, {'key': 'weather_Ptuj_temperature', 'value': 3}, {'key': 'weather_Ptuj_humidity', 'value': 87}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1022}], Status: Success
+2024-12-02 19:03:56,975 - INFO - Generated Token: Chb3IZ9bBHUzgCYfOWXm3uiaua2wWmV1, Tokens Stored: ['Chb3IZ9bBHUzgCYfOWXm3uiaua2wWmV1']
+2024-12-02 19:03:56,978 - INFO - Generated Token: UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB, Tokens Stored: ['Chb3IZ9bBHUzgCYfOWXm3uiaua2wWmV1', 'UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB']
+2024-12-02 19:03:56,979 - INFO - Authenticating token: UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB
+2024-12-02 19:03:56,979 - INFO - Token is valid: UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB
+2024-12-02 19:03:56,979 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB'}
+2024-12-02 19:03:56,981 - INFO - Generated Token: 5ZvTOm5Lum1ynDNHf8NxkgHU5FumC5OR, Tokens Stored: ['Chb3IZ9bBHUzgCYfOWXm3uiaua2wWmV1', 'UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB', '5ZvTOm5Lum1ynDNHf8NxkgHU5FumC5OR']
+2024-12-02 19:03:56,982 - INFO - Authenticating token: 5ZvTOm5Lum1ynDNHf8NxkgHU5FumC5OR
+2024-12-02 19:03:56,982 - INFO - Token is valid: 5ZvTOm5Lum1ynDNHf8NxkgHU5FumC5OR
+2024-12-02 19:03:56,984 - INFO - Generated Token: l5Wfq17KzsOxO9BUJva0WpCtZ7wNVUcs, Tokens Stored: ['Chb3IZ9bBHUzgCYfOWXm3uiaua2wWmV1', 'UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB', '5ZvTOm5Lum1ynDNHf8NxkgHU5FumC5OR', 'l5Wfq17KzsOxO9BUJva0WpCtZ7wNVUcs']
+2024-12-02 19:03:56,985 - INFO - Authenticating token: l5Wfq17KzsOxO9BUJva0WpCtZ7wNVUcs
+2024-12-02 19:03:56,985 - INFO - Token is valid: l5Wfq17KzsOxO9BUJva0WpCtZ7wNVUcs
+2024-12-02 19:03:56,985 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer l5Wfq17KzsOxO9BUJva0WpCtZ7wNVUcs'}
+2024-12-02 19:03:56,986 - INFO - Generated Token: i6FGZibVs3K3bGm83eLfBi6TckiOCArP, Tokens Stored: ['Chb3IZ9bBHUzgCYfOWXm3uiaua2wWmV1', 'UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB', '5ZvTOm5Lum1ynDNHf8NxkgHU5FumC5OR', 'l5Wfq17KzsOxO9BUJva0WpCtZ7wNVUcs', 'i6FGZibVs3K3bGm83eLfBi6TckiOCArP']
+2024-12-02 19:03:56,988 - INFO - Authenticating token: i6FGZibVs3K3bGm83eLfBi6TckiOCArP
+2024-12-02 19:03:56,988 - INFO - Token is valid: i6FGZibVs3K3bGm83eLfBi6TckiOCArP
+2024-12-02 19:03:56,992 - INFO - Generated Token: JQi201AIIAvWr1fTexVrqRhOdnw4qPnK, Tokens Stored: ['Chb3IZ9bBHUzgCYfOWXm3uiaua2wWmV1', 'UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB', '5ZvTOm5Lum1ynDNHf8NxkgHU5FumC5OR', 'l5Wfq17KzsOxO9BUJva0WpCtZ7wNVUcs', 'i6FGZibVs3K3bGm83eLfBi6TckiOCArP', 'JQi201AIIAvWr1fTexVrqRhOdnw4qPnK']
+2024-12-02 19:03:56,994 - INFO - Authenticating token: JQi201AIIAvWr1fTexVrqRhOdnw4qPnK
+2024-12-02 19:03:56,994 - INFO - Token is valid: JQi201AIIAvWr1fTexVrqRhOdnw4qPnK
+2024-12-02 19:03:56,997 - INFO - Authenticating token: 9DoC8F1uftAzjkNUvD4aCZO8Oke9zZ0N
+2024-12-02 19:03:56,997 - INFO - Token is invalid or expired: 9DoC8F1uftAzjkNUvD4aCZO8Oke9zZ0N
+2024-12-02 19:03:56,998 - INFO - Generated Token: ygS4AeNHJg9EOJu2OLL87FuJfqD0Hrdv, Tokens Stored: ['Chb3IZ9bBHUzgCYfOWXm3uiaua2wWmV1', 'UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB', '5ZvTOm5Lum1ynDNHf8NxkgHU5FumC5OR', 'l5Wfq17KzsOxO9BUJva0WpCtZ7wNVUcs', 'i6FGZibVs3K3bGm83eLfBi6TckiOCArP', 'JQi201AIIAvWr1fTexVrqRhOdnw4qPnK', '9DoC8F1uftAzjkNUvD4aCZO8Oke9zZ0N', 'ygS4AeNHJg9EOJu2OLL87FuJfqD0Hrdv']
+2024-12-02 19:03:56,999 - INFO - Authenticating token: ygS4AeNHJg9EOJu2OLL87FuJfqD0Hrdv
+2024-12-02 19:03:56,999 - INFO - Token is valid: ygS4AeNHJg9EOJu2OLL87FuJfqD0Hrdv
+2024-12-02 19:03:56,999 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer ygS4AeNHJg9EOJu2OLL87FuJfqD0Hrdv'}
+2024-12-02 19:03:57,001 - INFO - Generated Token: A1d8PpQk2qHusrhoDTeIbvngCJS8Lk8I, Tokens Stored: ['Chb3IZ9bBHUzgCYfOWXm3uiaua2wWmV1', 'UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB', '5ZvTOm5Lum1ynDNHf8NxkgHU5FumC5OR', 'l5Wfq17KzsOxO9BUJva0WpCtZ7wNVUcs', 'i6FGZibVs3K3bGm83eLfBi6TckiOCArP', 'JQi201AIIAvWr1fTexVrqRhOdnw4qPnK', '9DoC8F1uftAzjkNUvD4aCZO8Oke9zZ0N', 'ygS4AeNHJg9EOJu2OLL87FuJfqD0Hrdv', 'A1d8PpQk2qHusrhoDTeIbvngCJS8Lk8I']
+2024-12-02 19:03:57,002 - INFO - Authenticating token: A1d8PpQk2qHusrhoDTeIbvngCJS8Lk8I
+2024-12-02 19:03:57,002 - INFO - Token is valid: A1d8PpQk2qHusrhoDTeIbvngCJS8Lk8I
+2024-12-02 19:03:57,004 - INFO - Generated Token: xvflDLfRzHaxuxO9Pofah8sWpRCB236i, Tokens Stored: ['Chb3IZ9bBHUzgCYfOWXm3uiaua2wWmV1', 'UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB', '5ZvTOm5Lum1ynDNHf8NxkgHU5FumC5OR', 'l5Wfq17KzsOxO9BUJva0WpCtZ7wNVUcs', 'i6FGZibVs3K3bGm83eLfBi6TckiOCArP', 'JQi201AIIAvWr1fTexVrqRhOdnw4qPnK', '9DoC8F1uftAzjkNUvD4aCZO8Oke9zZ0N', 'ygS4AeNHJg9EOJu2OLL87FuJfqD0Hrdv', 'A1d8PpQk2qHusrhoDTeIbvngCJS8Lk8I', 'xvflDLfRzHaxuxO9Pofah8sWpRCB236i']
+2024-12-02 19:03:57,005 - INFO - Authenticating token: xvflDLfRzHaxuxO9Pofah8sWpRCB236i
+2024-12-02 19:03:57,005 - INFO - Token is valid: xvflDLfRzHaxuxO9Pofah8sWpRCB236i
+2024-12-02 19:03:57,005 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer xvflDLfRzHaxuxO9Pofah8sWpRCB236i'}
+2024-12-02 19:03:57,006 - INFO - Generated Token: NkKrC3r0x6w4c7RqDxUEQ5RVQW2FD5JM, Tokens Stored: ['Chb3IZ9bBHUzgCYfOWXm3uiaua2wWmV1', 'UeCRzukQqK2LtkUCftGBy3I5OCJeCeuB', '5ZvTOm5Lum1ynDNHf8NxkgHU5FumC5OR', 'l5Wfq17KzsOxO9BUJva0WpCtZ7wNVUcs', 'i6FGZibVs3K3bGm83eLfBi6TckiOCArP', 'JQi201AIIAvWr1fTexVrqRhOdnw4qPnK', '9DoC8F1uftAzjkNUvD4aCZO8Oke9zZ0N', 'ygS4AeNHJg9EOJu2OLL87FuJfqD0Hrdv', 'A1d8PpQk2qHusrhoDTeIbvngCJS8Lk8I', 'xvflDLfRzHaxuxO9Pofah8sWpRCB236i', 'NkKrC3r0x6w4c7RqDxUEQ5RVQW2FD5JM']
+2024-12-02 19:03:57,008 - INFO - Authenticating token: NkKrC3r0x6w4c7RqDxUEQ5RVQW2FD5JM
+2024-12-02 19:03:57,008 - INFO - Token is valid: NkKrC3r0x6w4c7RqDxUEQ5RVQW2FD5JM
+2024-12-02 19:13:02,865 - INFO - Generated Token: rZ6Hm9PsLQft8v2Blcb0EwOczC1J2Zfn, Tokens Stored: ['rZ6Hm9PsLQft8v2Blcb0EwOczC1J2Zfn']
+2024-12-02 19:13:02,868 - INFO - Generated Token: fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl, Tokens Stored: ['rZ6Hm9PsLQft8v2Blcb0EwOczC1J2Zfn', 'fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl']
+2024-12-02 19:13:02,869 - INFO - Authenticating token: fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl
+2024-12-02 19:13:02,869 - INFO - Token is valid: fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl
+2024-12-02 19:13:02,869 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl'}
+2024-12-02 19:13:02,871 - INFO - Generated Token: QKvLbpNqNzO74ZwElhcFUh6Pva2xDYEO, Tokens Stored: ['rZ6Hm9PsLQft8v2Blcb0EwOczC1J2Zfn', 'fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl', 'QKvLbpNqNzO74ZwElhcFUh6Pva2xDYEO']
+2024-12-02 19:13:02,872 - INFO - Authenticating token: QKvLbpNqNzO74ZwElhcFUh6Pva2xDYEO
+2024-12-02 19:13:02,872 - INFO - Token is valid: QKvLbpNqNzO74ZwElhcFUh6Pva2xDYEO
+2024-12-02 19:13:02,873 - INFO - Generated Token: 6X2FvPeK64YY9MNDSumNfxxZhOL62bMA, Tokens Stored: ['rZ6Hm9PsLQft8v2Blcb0EwOczC1J2Zfn', 'fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl', 'QKvLbpNqNzO74ZwElhcFUh6Pva2xDYEO', '6X2FvPeK64YY9MNDSumNfxxZhOL62bMA']
+2024-12-02 19:13:02,875 - INFO - Authenticating token: 6X2FvPeK64YY9MNDSumNfxxZhOL62bMA
+2024-12-02 19:13:02,875 - INFO - Token is valid: 6X2FvPeK64YY9MNDSumNfxxZhOL62bMA
+2024-12-02 19:13:02,875 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer 6X2FvPeK64YY9MNDSumNfxxZhOL62bMA'}
+2024-12-02 19:13:02,876 - INFO - Generated Token: pYTQ7L1SztE5U8f0p0MULnbDTGfsvvva, Tokens Stored: ['rZ6Hm9PsLQft8v2Blcb0EwOczC1J2Zfn', 'fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl', 'QKvLbpNqNzO74ZwElhcFUh6Pva2xDYEO', '6X2FvPeK64YY9MNDSumNfxxZhOL62bMA', 'pYTQ7L1SztE5U8f0p0MULnbDTGfsvvva']
+2024-12-02 19:13:02,877 - INFO - Authenticating token: pYTQ7L1SztE5U8f0p0MULnbDTGfsvvva
+2024-12-02 19:13:02,877 - INFO - Token is valid: pYTQ7L1SztE5U8f0p0MULnbDTGfsvvva
+2024-12-02 19:13:02,882 - INFO - Generated Token: dWMCu2QhZm2UuKmts8ylRygnLCebi2as, Tokens Stored: ['rZ6Hm9PsLQft8v2Blcb0EwOczC1J2Zfn', 'fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl', 'QKvLbpNqNzO74ZwElhcFUh6Pva2xDYEO', '6X2FvPeK64YY9MNDSumNfxxZhOL62bMA', 'pYTQ7L1SztE5U8f0p0MULnbDTGfsvvva', 'dWMCu2QhZm2UuKmts8ylRygnLCebi2as']
+2024-12-02 19:13:02,884 - INFO - Authenticating token: dWMCu2QhZm2UuKmts8ylRygnLCebi2as
+2024-12-02 19:13:02,884 - INFO - Token is valid: dWMCu2QhZm2UuKmts8ylRygnLCebi2as
+2024-12-02 19:13:02,886 - INFO - Authenticating token: x2hy0ImrEO8zuXpAeGOjrZQYPKyrwI4G
+2024-12-02 19:13:02,886 - INFO - Token is invalid or expired: x2hy0ImrEO8zuXpAeGOjrZQYPKyrwI4G
+2024-12-02 19:13:02,888 - INFO - Generated Token: 4fjSzS9POA92Ss2zAfKXD5IH2vGZpEKD, Tokens Stored: ['rZ6Hm9PsLQft8v2Blcb0EwOczC1J2Zfn', 'fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl', 'QKvLbpNqNzO74ZwElhcFUh6Pva2xDYEO', '6X2FvPeK64YY9MNDSumNfxxZhOL62bMA', 'pYTQ7L1SztE5U8f0p0MULnbDTGfsvvva', 'dWMCu2QhZm2UuKmts8ylRygnLCebi2as', 'x2hy0ImrEO8zuXpAeGOjrZQYPKyrwI4G', '4fjSzS9POA92Ss2zAfKXD5IH2vGZpEKD']
+2024-12-02 19:13:02,889 - INFO - Authenticating token: 4fjSzS9POA92Ss2zAfKXD5IH2vGZpEKD
+2024-12-02 19:13:02,889 - INFO - Token is valid: 4fjSzS9POA92Ss2zAfKXD5IH2vGZpEKD
+2024-12-02 19:13:02,889 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer 4fjSzS9POA92Ss2zAfKXD5IH2vGZpEKD'}
+2024-12-02 19:13:02,890 - INFO - Generated Token: 2Mg0zdIqCcyHXrZSt56cCm8YbF3XN4Sp, Tokens Stored: ['rZ6Hm9PsLQft8v2Blcb0EwOczC1J2Zfn', 'fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl', 'QKvLbpNqNzO74ZwElhcFUh6Pva2xDYEO', '6X2FvPeK64YY9MNDSumNfxxZhOL62bMA', 'pYTQ7L1SztE5U8f0p0MULnbDTGfsvvva', 'dWMCu2QhZm2UuKmts8ylRygnLCebi2as', 'x2hy0ImrEO8zuXpAeGOjrZQYPKyrwI4G', '4fjSzS9POA92Ss2zAfKXD5IH2vGZpEKD', '2Mg0zdIqCcyHXrZSt56cCm8YbF3XN4Sp']
+2024-12-02 19:13:02,891 - INFO - Authenticating token: 2Mg0zdIqCcyHXrZSt56cCm8YbF3XN4Sp
+2024-12-02 19:13:02,891 - INFO - Token is valid: 2Mg0zdIqCcyHXrZSt56cCm8YbF3XN4Sp
+2024-12-02 19:13:02,893 - INFO - Generated Token: aTYoZlo8wVUjMFw7mXQJmudlqA9CCaRP, Tokens Stored: ['rZ6Hm9PsLQft8v2Blcb0EwOczC1J2Zfn', 'fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl', 'QKvLbpNqNzO74ZwElhcFUh6Pva2xDYEO', '6X2FvPeK64YY9MNDSumNfxxZhOL62bMA', 'pYTQ7L1SztE5U8f0p0MULnbDTGfsvvva', 'dWMCu2QhZm2UuKmts8ylRygnLCebi2as', 'x2hy0ImrEO8zuXpAeGOjrZQYPKyrwI4G', '4fjSzS9POA92Ss2zAfKXD5IH2vGZpEKD', '2Mg0zdIqCcyHXrZSt56cCm8YbF3XN4Sp', 'aTYoZlo8wVUjMFw7mXQJmudlqA9CCaRP']
+2024-12-02 19:13:02,894 - INFO - Authenticating token: aTYoZlo8wVUjMFw7mXQJmudlqA9CCaRP
+2024-12-02 19:13:02,894 - INFO - Token is valid: aTYoZlo8wVUjMFw7mXQJmudlqA9CCaRP
+2024-12-02 19:13:02,894 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer aTYoZlo8wVUjMFw7mXQJmudlqA9CCaRP'}
+2024-12-02 19:13:02,895 - INFO - Generated Token: DAgCWOhLghBQKyGm6VOjQpnPqIQLYOuV, Tokens Stored: ['rZ6Hm9PsLQft8v2Blcb0EwOczC1J2Zfn', 'fygrpsjAZVC7QVrh5yeMI9OW51NjJqDl', 'QKvLbpNqNzO74ZwElhcFUh6Pva2xDYEO', '6X2FvPeK64YY9MNDSumNfxxZhOL62bMA', 'pYTQ7L1SztE5U8f0p0MULnbDTGfsvvva', 'dWMCu2QhZm2UuKmts8ylRygnLCebi2as', 'x2hy0ImrEO8zuXpAeGOjrZQYPKyrwI4G', '4fjSzS9POA92Ss2zAfKXD5IH2vGZpEKD', '2Mg0zdIqCcyHXrZSt56cCm8YbF3XN4Sp', 'aTYoZlo8wVUjMFw7mXQJmudlqA9CCaRP', 'DAgCWOhLghBQKyGm6VOjQpnPqIQLYOuV']
+2024-12-02 19:13:02,898 - INFO - Authenticating token: DAgCWOhLghBQKyGm6VOjQpnPqIQLYOuV
+2024-12-02 19:13:02,898 - INFO - Token is valid: DAgCWOhLghBQKyGm6VOjQpnPqIQLYOuV
+2024-12-02 19:50:07,223 - INFO - Generated Token: UCuuYXf6gIX4hfVoAwk3thCrVfJ0WSBd, Tokens Stored: ['UCuuYXf6gIX4hfVoAwk3thCrVfJ0WSBd']
+2024-12-02 19:50:07,225 - INFO - Generated Token: 9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C, Tokens Stored: ['UCuuYXf6gIX4hfVoAwk3thCrVfJ0WSBd', '9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C']
+2024-12-02 19:50:07,226 - INFO - Authenticating token: 9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C
+2024-12-02 19:50:07,226 - INFO - Token is valid: 9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C
+2024-12-02 19:50:07,227 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer 9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C'}
+2024-12-02 19:50:07,228 - INFO - Generated Token: 0gWP7ZtKBzxkKkvWmZ8Vf8PVHMP9wI2D, Tokens Stored: ['UCuuYXf6gIX4hfVoAwk3thCrVfJ0WSBd', '9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C', '0gWP7ZtKBzxkKkvWmZ8Vf8PVHMP9wI2D']
+2024-12-02 19:50:07,229 - INFO - Authenticating token: 0gWP7ZtKBzxkKkvWmZ8Vf8PVHMP9wI2D
+2024-12-02 19:50:07,229 - INFO - Token is valid: 0gWP7ZtKBzxkKkvWmZ8Vf8PVHMP9wI2D
+2024-12-02 19:50:07,231 - INFO - Generated Token: DDodfexkBP8aAk37pIb6tMHD3LtyFIEq, Tokens Stored: ['UCuuYXf6gIX4hfVoAwk3thCrVfJ0WSBd', '9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C', '0gWP7ZtKBzxkKkvWmZ8Vf8PVHMP9wI2D', 'DDodfexkBP8aAk37pIb6tMHD3LtyFIEq']
+2024-12-02 19:50:07,232 - INFO - Authenticating token: DDodfexkBP8aAk37pIb6tMHD3LtyFIEq
+2024-12-02 19:50:07,232 - INFO - Token is valid: DDodfexkBP8aAk37pIb6tMHD3LtyFIEq
+2024-12-02 19:50:07,232 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer DDodfexkBP8aAk37pIb6tMHD3LtyFIEq'}
+2024-12-02 19:50:07,233 - INFO - Generated Token: tXuuphkgNi3QgxtzgSC0acwdYX9ZXSkA, Tokens Stored: ['UCuuYXf6gIX4hfVoAwk3thCrVfJ0WSBd', '9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C', '0gWP7ZtKBzxkKkvWmZ8Vf8PVHMP9wI2D', 'DDodfexkBP8aAk37pIb6tMHD3LtyFIEq', 'tXuuphkgNi3QgxtzgSC0acwdYX9ZXSkA']
+2024-12-02 19:50:07,235 - INFO - Authenticating token: tXuuphkgNi3QgxtzgSC0acwdYX9ZXSkA
+2024-12-02 19:50:07,235 - INFO - Token is valid: tXuuphkgNi3QgxtzgSC0acwdYX9ZXSkA
+2024-12-02 19:50:07,239 - INFO - Generated Token: shhz5G4Udje5bK51Q7gmIrZ6Ndh83Fjl, Tokens Stored: ['UCuuYXf6gIX4hfVoAwk3thCrVfJ0WSBd', '9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C', '0gWP7ZtKBzxkKkvWmZ8Vf8PVHMP9wI2D', 'DDodfexkBP8aAk37pIb6tMHD3LtyFIEq', 'tXuuphkgNi3QgxtzgSC0acwdYX9ZXSkA', 'shhz5G4Udje5bK51Q7gmIrZ6Ndh83Fjl']
+2024-12-02 19:50:07,241 - INFO - Authenticating token: shhz5G4Udje5bK51Q7gmIrZ6Ndh83Fjl
+2024-12-02 19:50:07,241 - INFO - Token is valid: shhz5G4Udje5bK51Q7gmIrZ6Ndh83Fjl
+2024-12-02 19:50:07,244 - INFO - Authenticating token: 0G5vhXJvxyLrQgZAHgjGkdGcy7gmr8LP
+2024-12-02 19:50:07,244 - INFO - Token is invalid or expired: 0G5vhXJvxyLrQgZAHgjGkdGcy7gmr8LP
+2024-12-02 19:50:07,245 - INFO - Generated Token: pF9ZFaSYsnuJdgeVkX93VNxRgvNJBhc3, Tokens Stored: ['UCuuYXf6gIX4hfVoAwk3thCrVfJ0WSBd', '9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C', '0gWP7ZtKBzxkKkvWmZ8Vf8PVHMP9wI2D', 'DDodfexkBP8aAk37pIb6tMHD3LtyFIEq', 'tXuuphkgNi3QgxtzgSC0acwdYX9ZXSkA', 'shhz5G4Udje5bK51Q7gmIrZ6Ndh83Fjl', '0G5vhXJvxyLrQgZAHgjGkdGcy7gmr8LP', 'pF9ZFaSYsnuJdgeVkX93VNxRgvNJBhc3']
+2024-12-02 19:50:07,246 - INFO - Authenticating token: pF9ZFaSYsnuJdgeVkX93VNxRgvNJBhc3
+2024-12-02 19:50:07,246 - INFO - Token is valid: pF9ZFaSYsnuJdgeVkX93VNxRgvNJBhc3
+2024-12-02 19:50:07,246 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer pF9ZFaSYsnuJdgeVkX93VNxRgvNJBhc3'}
+2024-12-02 19:50:07,248 - INFO - Generated Token: esDMif06Rn4ii9zfLKVNj0lxsfYKGZ0U, Tokens Stored: ['UCuuYXf6gIX4hfVoAwk3thCrVfJ0WSBd', '9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C', '0gWP7ZtKBzxkKkvWmZ8Vf8PVHMP9wI2D', 'DDodfexkBP8aAk37pIb6tMHD3LtyFIEq', 'tXuuphkgNi3QgxtzgSC0acwdYX9ZXSkA', 'shhz5G4Udje5bK51Q7gmIrZ6Ndh83Fjl', '0G5vhXJvxyLrQgZAHgjGkdGcy7gmr8LP', 'pF9ZFaSYsnuJdgeVkX93VNxRgvNJBhc3', 'esDMif06Rn4ii9zfLKVNj0lxsfYKGZ0U']
+2024-12-02 19:50:07,249 - INFO - Authenticating token: esDMif06Rn4ii9zfLKVNj0lxsfYKGZ0U
+2024-12-02 19:50:07,249 - INFO - Token is valid: esDMif06Rn4ii9zfLKVNj0lxsfYKGZ0U
+2024-12-02 19:50:07,250 - INFO - Generated Token: 5Su2r71lbpHEHGLdaoClwzKCC2gun64q, Tokens Stored: ['UCuuYXf6gIX4hfVoAwk3thCrVfJ0WSBd', '9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C', '0gWP7ZtKBzxkKkvWmZ8Vf8PVHMP9wI2D', 'DDodfexkBP8aAk37pIb6tMHD3LtyFIEq', 'tXuuphkgNi3QgxtzgSC0acwdYX9ZXSkA', 'shhz5G4Udje5bK51Q7gmIrZ6Ndh83Fjl', '0G5vhXJvxyLrQgZAHgjGkdGcy7gmr8LP', 'pF9ZFaSYsnuJdgeVkX93VNxRgvNJBhc3', 'esDMif06Rn4ii9zfLKVNj0lxsfYKGZ0U', '5Su2r71lbpHEHGLdaoClwzKCC2gun64q']
+2024-12-02 19:50:07,251 - INFO - Authenticating token: 5Su2r71lbpHEHGLdaoClwzKCC2gun64q
+2024-12-02 19:50:07,251 - INFO - Token is valid: 5Su2r71lbpHEHGLdaoClwzKCC2gun64q
+2024-12-02 19:50:07,252 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer 5Su2r71lbpHEHGLdaoClwzKCC2gun64q'}
+2024-12-02 19:50:07,253 - INFO - Generated Token: Iu5Agfpqv2axfbOqMm1urKSWI77ThBj4, Tokens Stored: ['UCuuYXf6gIX4hfVoAwk3thCrVfJ0WSBd', '9HDOJgwIPCx38poD7WDgtUwyZ6a6N21C', '0gWP7ZtKBzxkKkvWmZ8Vf8PVHMP9wI2D', 'DDodfexkBP8aAk37pIb6tMHD3LtyFIEq', 'tXuuphkgNi3QgxtzgSC0acwdYX9ZXSkA', 'shhz5G4Udje5bK51Q7gmIrZ6Ndh83Fjl', '0G5vhXJvxyLrQgZAHgjGkdGcy7gmr8LP', 'pF9ZFaSYsnuJdgeVkX93VNxRgvNJBhc3', 'esDMif06Rn4ii9zfLKVNj0lxsfYKGZ0U', '5Su2r71lbpHEHGLdaoClwzKCC2gun64q', 'Iu5Agfpqv2axfbOqMm1urKSWI77ThBj4']
+2024-12-02 19:50:07,255 - INFO - Authenticating token: Iu5Agfpqv2axfbOqMm1urKSWI77ThBj4
+2024-12-02 19:50:07,255 - INFO - Token is valid: Iu5Agfpqv2axfbOqMm1urKSWI77ThBj4
+2024-12-02 19:58:25,452 - INFO - Generated Token: nfVlJSDyC5wIosGKdK2MpBndix2yWrCq, Tokens Stored: ['nfVlJSDyC5wIosGKdK2MpBndix2yWrCq']
+2024-12-02 19:58:43,879 - INFO - Authenticating token: nfVlJSDyC5wIosGKdK2MpBndix2yWrCq
+2024-12-02 19:58:43,879 - INFO - Token is valid: nfVlJSDyC5wIosGKdK2MpBndix2yWrCq
+2024-12-02 19:58:46,700 - INFO - Preparing to push 8 metrics: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}]
+2024-12-02 19:58:47,273 - INFO - Service: Databox, Metrics Sent: 8, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}], Status: Success
+2024-12-02 19:00:51,138 - INFO - Generated Token: NwMnXBW4vvgYWBht3D7hf9cIXgoO3lNb, Tokens Stored: ['NwMnXBW4vvgYWBht3D7hf9cIXgoO3lNb']
+2024-12-02 19:01:10,315 - INFO - Authenticating token: NwMnXBW4vvgYWBht3D7hf9cIXgoO3lNb
+2024-12-02 19:01:10,316 - INFO - Token is valid: NwMnXBW4vvgYWBht3D7hf9cIXgoO3lNb
+2024-12-02 19:01:11,855 - INFO - Preparing to push 4 metrics: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}]
+2024-12-02 19:01:12,369 - INFO - Service: Databox, Metrics Sent: 4, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}], Status: Success
+2024-12-02 19:01:21,805 - INFO - Authenticating token: NwMnXBW4vvgYWBht3D7hf9cIXgoO3lNb
+2024-12-02 19:01:21,805 - INFO - Token is valid: NwMnXBW4vvgYWBht3D7hf9cIXgoO3lNb
+2024-12-02 19:01:23,000 - INFO - Preparing to push 0 metrics: []
+2024-12-02 19:01:23,128 - ERROR - Service: Databox, Metrics Sent: 0, Payload: [], Status: Failure, Error: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'Date': 'Mon, 02 Dec 2024 19:01:23 GMT', 'Content-Type': 'application/vnd.databox.v2+json', 'Content-Length': '113', 'Connection': 'keep-alive'})
+HTTP response body: {"status":"BAD_REQUEST","message":"Validation error - Payload should contain at least one 'data' item","id":null}
+
+2024-12-02 19:06:23,107 - INFO - Generated Token: ujUrQXI54eaS3J8eJmEf1qi9VNjeDUMA, Tokens Stored: ['ujUrQXI54eaS3J8eJmEf1qi9VNjeDUMA']
+2024-12-02 19:06:35,553 - INFO - Authenticating token: ujUrQXI54eaS3J8eJmEf1qi9VNjeDUMA
+2024-12-02 19:06:35,554 - INFO - Token is valid: ujUrQXI54eaS3J8eJmEf1qi9VNjeDUMA
+2024-12-02 19:06:35,554 - DEBUG - Request Headers: {'Host': '153.5.66.230:5022', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'Accept': 'application/json', 'Authorization': 'Bearer ujUrQXI54eaS3J8eJmEf1qi9VNjeDUMA', 'Referer': 'http://153.5.66.230:5022/', 'Accept-Encoding': 'gzip, deflate', 'Accept-Language': 'sl,en-US;q=0.9,en;q=0.8', 'Cookie': 'csrftoken=oadNbRU6ztB1HNQumVxOc84k7OE8Abse'}
+2024-12-02 19:06:41,346 - INFO - Authenticating token: ujUrQXI54eaS3J8eJmEf1qi9VNjeDUMA
+2024-12-02 19:06:41,346 - INFO - Token is valid: ujUrQXI54eaS3J8eJmEf1qi9VNjeDUMA
+2024-12-02 19:06:51,447 - INFO - Authenticating token: ujUrQXI54eaS3J8eJmEf1qi9VNjeDUMA
+2024-12-02 19:06:51,447 - INFO - Token is valid: ujUrQXI54eaS3J8eJmEf1qi9VNjeDUMA
+2024-12-02 19:06:53,139 - INFO - Preparing to push 20 metrics: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': -1}, {'key': 'weather_Ljubljana_humidity', 'value': 93}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1021}, {'key': 'weather_Maribor_temperature', 'value': 0}, {'key': 'weather_Maribor_humidity', 'value': 93}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1021}, {'key': 'weather_Ptuj_temperature', 'value': 0}, {'key': 'weather_Ptuj_humidity', 'value': 89}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1023}]
+2024-12-02 19:06:53,827 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524044.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': -1}, {'key': 'weather_Ljubljana_humidity', 'value': 93}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1021}, {'key': 'weather_Maribor_temperature', 'value': 0}, {'key': 'weather_Maribor_humidity', 'value': 93}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1021}, {'key': 'weather_Ptuj_temperature', 'value': 0}, {'key': 'weather_Ptuj_humidity', 'value': 89}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1023}], Status: Success
+2024-12-02 20:07:09,562 - INFO - Generated Token: tMlyT8niFxrkwjw2PP7ndzeqzCdwcRy0, Tokens Stored: ['tMlyT8niFxrkwjw2PP7ndzeqzCdwcRy0']
+2024-12-02 20:07:09,564 - INFO - Generated Token: N2R9BivqX7JXMYvxE2154uvah0GSL7ne, Tokens Stored: ['tMlyT8niFxrkwjw2PP7ndzeqzCdwcRy0', 'N2R9BivqX7JXMYvxE2154uvah0GSL7ne']
+2024-12-02 20:07:09,566 - INFO - Authenticating token: N2R9BivqX7JXMYvxE2154uvah0GSL7ne
+2024-12-02 20:07:09,566 - INFO - Token is valid: N2R9BivqX7JXMYvxE2154uvah0GSL7ne
+2024-12-02 20:07:09,566 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer N2R9BivqX7JXMYvxE2154uvah0GSL7ne'}
+2024-12-02 20:07:09,567 - INFO - Generated Token: bsGujxnbqUhCq2H24agyx2BaMrfy8rur, Tokens Stored: ['tMlyT8niFxrkwjw2PP7ndzeqzCdwcRy0', 'N2R9BivqX7JXMYvxE2154uvah0GSL7ne', 'bsGujxnbqUhCq2H24agyx2BaMrfy8rur']
+2024-12-02 20:07:09,569 - INFO - Authenticating token: bsGujxnbqUhCq2H24agyx2BaMrfy8rur
+2024-12-02 20:07:09,569 - INFO - Token is valid: bsGujxnbqUhCq2H24agyx2BaMrfy8rur
+2024-12-02 20:07:09,570 - INFO - Generated Token: gHDpoFxpwN1jFSm5uRqveduh0cgxIBI1, Tokens Stored: ['tMlyT8niFxrkwjw2PP7ndzeqzCdwcRy0', 'N2R9BivqX7JXMYvxE2154uvah0GSL7ne', 'bsGujxnbqUhCq2H24agyx2BaMrfy8rur', 'gHDpoFxpwN1jFSm5uRqveduh0cgxIBI1']
+2024-12-02 20:07:09,571 - INFO - Authenticating token: gHDpoFxpwN1jFSm5uRqveduh0cgxIBI1
+2024-12-02 20:07:09,571 - INFO - Token is valid: gHDpoFxpwN1jFSm5uRqveduh0cgxIBI1
+2024-12-02 20:07:09,571 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer gHDpoFxpwN1jFSm5uRqveduh0cgxIBI1'}
+2024-12-02 20:07:09,573 - INFO - Generated Token: LGgDWp6UP85eojY07hSDrrQXh7zJtSNF, Tokens Stored: ['tMlyT8niFxrkwjw2PP7ndzeqzCdwcRy0', 'N2R9BivqX7JXMYvxE2154uvah0GSL7ne', 'bsGujxnbqUhCq2H24agyx2BaMrfy8rur', 'gHDpoFxpwN1jFSm5uRqveduh0cgxIBI1', 'LGgDWp6UP85eojY07hSDrrQXh7zJtSNF']
+2024-12-02 20:07:09,574 - INFO - Authenticating token: LGgDWp6UP85eojY07hSDrrQXh7zJtSNF
+2024-12-02 20:07:09,574 - INFO - Token is valid: LGgDWp6UP85eojY07hSDrrQXh7zJtSNF
+2024-12-02 20:07:09,579 - INFO - Generated Token: S3WmLlhrIfKOTFWNaJdZdpCf8iTjcXsF, Tokens Stored: ['tMlyT8niFxrkwjw2PP7ndzeqzCdwcRy0', 'N2R9BivqX7JXMYvxE2154uvah0GSL7ne', 'bsGujxnbqUhCq2H24agyx2BaMrfy8rur', 'gHDpoFxpwN1jFSm5uRqveduh0cgxIBI1', 'LGgDWp6UP85eojY07hSDrrQXh7zJtSNF', 'S3WmLlhrIfKOTFWNaJdZdpCf8iTjcXsF']
+2024-12-02 20:07:09,580 - INFO - Authenticating token: S3WmLlhrIfKOTFWNaJdZdpCf8iTjcXsF
+2024-12-02 20:07:09,580 - INFO - Token is valid: S3WmLlhrIfKOTFWNaJdZdpCf8iTjcXsF
+2024-12-02 20:07:09,580 - INFO - Preparing to push 8 metrics: [{'key': 'stock_AAPL_avg_price', 'value': 150.25}, {'key': 'stock_AAPL_max_price', 'value': 155.0}, {'key': 'stock_AAPL_min_price', 'value': 145.0}, {'key': 'stock_AAPL_total_volume', 'value': 123456789}, {'key': 'weather_Ljubljana_temperature', 'value': 2.0}, {'key': 'weather_Ljubljana_humidity', 'value': 85}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5.0}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}]
+2024-12-02 20:07:09,583 - INFO - Authenticating token: TkV2Fi9sPqDmdR7bGrm7E20xccOHjurn
+2024-12-02 20:07:09,583 - INFO - Token is invalid or expired: TkV2Fi9sPqDmdR7bGrm7E20xccOHjurn
+2024-12-02 20:07:09,585 - INFO - Generated Token: d6JJ8kiecoeJkFeh7nWEfszP4F8LWE0F, Tokens Stored: ['tMlyT8niFxrkwjw2PP7ndzeqzCdwcRy0', 'N2R9BivqX7JXMYvxE2154uvah0GSL7ne', 'bsGujxnbqUhCq2H24agyx2BaMrfy8rur', 'gHDpoFxpwN1jFSm5uRqveduh0cgxIBI1', 'LGgDWp6UP85eojY07hSDrrQXh7zJtSNF', 'S3WmLlhrIfKOTFWNaJdZdpCf8iTjcXsF', 'TkV2Fi9sPqDmdR7bGrm7E20xccOHjurn', 'd6JJ8kiecoeJkFeh7nWEfszP4F8LWE0F']
+2024-12-02 20:07:09,586 - INFO - Authenticating token: d6JJ8kiecoeJkFeh7nWEfszP4F8LWE0F
+2024-12-02 20:07:09,586 - INFO - Token is valid: d6JJ8kiecoeJkFeh7nWEfszP4F8LWE0F
+2024-12-02 20:07:09,586 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer d6JJ8kiecoeJkFeh7nWEfszP4F8LWE0F'}
+2024-12-02 20:07:09,587 - INFO - Generated Token: 9gYMy5DSJtm5XL9V6GUfqdRJR3m3mfWE, Tokens Stored: ['tMlyT8niFxrkwjw2PP7ndzeqzCdwcRy0', 'N2R9BivqX7JXMYvxE2154uvah0GSL7ne', 'bsGujxnbqUhCq2H24agyx2BaMrfy8rur', 'gHDpoFxpwN1jFSm5uRqveduh0cgxIBI1', 'LGgDWp6UP85eojY07hSDrrQXh7zJtSNF', 'S3WmLlhrIfKOTFWNaJdZdpCf8iTjcXsF', 'TkV2Fi9sPqDmdR7bGrm7E20xccOHjurn', 'd6JJ8kiecoeJkFeh7nWEfszP4F8LWE0F', '9gYMy5DSJtm5XL9V6GUfqdRJR3m3mfWE']
+2024-12-02 20:07:09,588 - INFO - Authenticating token: 9gYMy5DSJtm5XL9V6GUfqdRJR3m3mfWE
+2024-12-02 20:07:09,588 - INFO - Token is valid: 9gYMy5DSJtm5XL9V6GUfqdRJR3m3mfWE
+2024-12-02 20:07:09,590 - INFO - Generated Token: 8cBMhsZpsCnwZSwKU05Cw3UtKFLvxUtJ, Tokens Stored: ['tMlyT8niFxrkwjw2PP7ndzeqzCdwcRy0', 'N2R9BivqX7JXMYvxE2154uvah0GSL7ne', 'bsGujxnbqUhCq2H24agyx2BaMrfy8rur', 'gHDpoFxpwN1jFSm5uRqveduh0cgxIBI1', 'LGgDWp6UP85eojY07hSDrrQXh7zJtSNF', 'S3WmLlhrIfKOTFWNaJdZdpCf8iTjcXsF', 'TkV2Fi9sPqDmdR7bGrm7E20xccOHjurn', 'd6JJ8kiecoeJkFeh7nWEfszP4F8LWE0F', '9gYMy5DSJtm5XL9V6GUfqdRJR3m3mfWE', '8cBMhsZpsCnwZSwKU05Cw3UtKFLvxUtJ']
+2024-12-02 20:07:09,591 - INFO - Authenticating token: 8cBMhsZpsCnwZSwKU05Cw3UtKFLvxUtJ
+2024-12-02 20:07:09,591 - INFO - Token is valid: 8cBMhsZpsCnwZSwKU05Cw3UtKFLvxUtJ
+2024-12-02 20:07:09,591 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer 8cBMhsZpsCnwZSwKU05Cw3UtKFLvxUtJ'}
+2024-12-02 20:07:09,592 - INFO - Generated Token: Saqhbnnu0sR4suU5GoYsKxQmGHw1vTsF, Tokens Stored: ['tMlyT8niFxrkwjw2PP7ndzeqzCdwcRy0', 'N2R9BivqX7JXMYvxE2154uvah0GSL7ne', 'bsGujxnbqUhCq2H24agyx2BaMrfy8rur', 'gHDpoFxpwN1jFSm5uRqveduh0cgxIBI1', 'LGgDWp6UP85eojY07hSDrrQXh7zJtSNF', 'S3WmLlhrIfKOTFWNaJdZdpCf8iTjcXsF', 'TkV2Fi9sPqDmdR7bGrm7E20xccOHjurn', 'd6JJ8kiecoeJkFeh7nWEfszP4F8LWE0F', '9gYMy5DSJtm5XL9V6GUfqdRJR3m3mfWE', '8cBMhsZpsCnwZSwKU05Cw3UtKFLvxUtJ', 'Saqhbnnu0sR4suU5GoYsKxQmGHw1vTsF']
+2024-12-02 20:07:09,594 - INFO - Authenticating token: Saqhbnnu0sR4suU5GoYsKxQmGHw1vTsF
+2024-12-02 20:07:09,594 - INFO - Token is valid: Saqhbnnu0sR4suU5GoYsKxQmGHw1vTsF
+2024-12-02 20:07:09,595 - INFO - Preparing to push 0 metrics: []
+2024-12-02 19:11:24,665 - INFO - Authenticating token: ujUrQXI54eaS3J8eJmEf1qi9VNjeDUMA
+2024-12-02 19:11:24,665 - INFO - Token is valid: ujUrQXI54eaS3J8eJmEf1qi9VNjeDUMA
+2024-12-02 19:11:26,346 - INFO - Preparing to push 20 metrics: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524021.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': -1}, {'key': 'weather_Ljubljana_humidity', 'value': 93}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1021}, {'key': 'weather_Maribor_temperature', 'value': 0}, {'key': 'weather_Maribor_humidity', 'value': 93}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1021}, {'key': 'weather_Ptuj_temperature', 'value': 0}, {'key': 'weather_Ptuj_humidity', 'value': 89}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1023}]
+2024-12-02 19:11:27,144 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.65480000000017}, {'key': 'stock_AAPL_max_price', 'value': 237.33}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4872524021.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.545}, {'key': 'stock_MSFT_max_price', 'value': 454.7}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2028488800.0}, {'key': 'weather_Ljubljana_temperature', 'value': -1}, {'key': 'weather_Ljubljana_humidity', 'value': 93}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1021}, {'key': 'weather_Maribor_temperature', 'value': 0}, {'key': 'weather_Maribor_humidity', 'value': 93}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1021}, {'key': 'weather_Ptuj_temperature', 'value': 0}, {'key': 'weather_Ptuj_humidity', 'value': 89}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1023}], Status: Success
+2024-12-02 20:12:27,637 - INFO - Generated Token: RdZAYaOUkk6k5itHZ3MNPqaD6GWrHapB, Tokens Stored: ['RdZAYaOUkk6k5itHZ3MNPqaD6GWrHapB']
+2024-12-02 20:12:27,640 - INFO - Generated Token: gqguOMxmanYCUQthsFfVDZUCnpJwFneo, Tokens Stored: ['RdZAYaOUkk6k5itHZ3MNPqaD6GWrHapB', 'gqguOMxmanYCUQthsFfVDZUCnpJwFneo']
+2024-12-02 20:12:27,641 - INFO - Authenticating token: gqguOMxmanYCUQthsFfVDZUCnpJwFneo
+2024-12-02 20:12:27,641 - INFO - Token is valid: gqguOMxmanYCUQthsFfVDZUCnpJwFneo
+2024-12-02 20:12:27,641 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer gqguOMxmanYCUQthsFfVDZUCnpJwFneo'}
+2024-12-02 20:12:27,643 - INFO - Generated Token: lZq5VQZ4MDICCRXrRS71MQwWOJ5V2hQc, Tokens Stored: ['RdZAYaOUkk6k5itHZ3MNPqaD6GWrHapB', 'gqguOMxmanYCUQthsFfVDZUCnpJwFneo', 'lZq5VQZ4MDICCRXrRS71MQwWOJ5V2hQc']
+2024-12-02 20:12:27,644 - INFO - Authenticating token: lZq5VQZ4MDICCRXrRS71MQwWOJ5V2hQc
+2024-12-02 20:12:27,644 - INFO - Token is valid: lZq5VQZ4MDICCRXrRS71MQwWOJ5V2hQc
+2024-12-02 20:12:27,646 - INFO - Generated Token: 4dlnUk0taQVIL9AiR3DGxVh0YcLHzW5I, Tokens Stored: ['RdZAYaOUkk6k5itHZ3MNPqaD6GWrHapB', 'gqguOMxmanYCUQthsFfVDZUCnpJwFneo', 'lZq5VQZ4MDICCRXrRS71MQwWOJ5V2hQc', '4dlnUk0taQVIL9AiR3DGxVh0YcLHzW5I']
+2024-12-02 20:12:27,647 - INFO - Authenticating token: 4dlnUk0taQVIL9AiR3DGxVh0YcLHzW5I
+2024-12-02 20:12:27,647 - INFO - Token is valid: 4dlnUk0taQVIL9AiR3DGxVh0YcLHzW5I
+2024-12-02 20:12:27,647 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer 4dlnUk0taQVIL9AiR3DGxVh0YcLHzW5I'}
+2024-12-02 20:12:27,649 - INFO - Generated Token: KiSyBCgOUMmHkDIgzWRqK0NN1eEK55xj, Tokens Stored: ['RdZAYaOUkk6k5itHZ3MNPqaD6GWrHapB', 'gqguOMxmanYCUQthsFfVDZUCnpJwFneo', 'lZq5VQZ4MDICCRXrRS71MQwWOJ5V2hQc', '4dlnUk0taQVIL9AiR3DGxVh0YcLHzW5I', 'KiSyBCgOUMmHkDIgzWRqK0NN1eEK55xj']
+2024-12-02 20:12:27,650 - INFO - Authenticating token: KiSyBCgOUMmHkDIgzWRqK0NN1eEK55xj
+2024-12-02 20:12:27,650 - INFO - Token is valid: KiSyBCgOUMmHkDIgzWRqK0NN1eEK55xj
+2024-12-02 20:12:27,654 - INFO - Generated Token: o6gnoF5j4DKO2KK2iq5msAZAaV6Qu7NW, Tokens Stored: ['RdZAYaOUkk6k5itHZ3MNPqaD6GWrHapB', 'gqguOMxmanYCUQthsFfVDZUCnpJwFneo', 'lZq5VQZ4MDICCRXrRS71MQwWOJ5V2hQc', '4dlnUk0taQVIL9AiR3DGxVh0YcLHzW5I', 'KiSyBCgOUMmHkDIgzWRqK0NN1eEK55xj', 'o6gnoF5j4DKO2KK2iq5msAZAaV6Qu7NW']
+2024-12-02 20:12:27,656 - INFO - Authenticating token: o6gnoF5j4DKO2KK2iq5msAZAaV6Qu7NW
+2024-12-02 20:12:27,656 - INFO - Token is valid: o6gnoF5j4DKO2KK2iq5msAZAaV6Qu7NW
+2024-12-02 20:12:27,657 - INFO - Preparing to push 8 metrics: [{'key': 'stock_AAPL_avg_price', 'value': 150.25}, {'key': 'stock_AAPL_max_price', 'value': 155.0}, {'key': 'stock_AAPL_min_price', 'value': 145.0}, {'key': 'stock_AAPL_total_volume', 'value': 123456789}, {'key': 'weather_Ljubljana_temperature', 'value': 2.0}, {'key': 'weather_Ljubljana_humidity', 'value': 85}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5.0}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}]
+2024-12-02 20:12:27,659 - INFO - Authenticating token: wRIxEW6BObGaVOtZEZH2O6kPsHoRL9A7
+2024-12-02 20:12:27,659 - INFO - Token is invalid or expired: wRIxEW6BObGaVOtZEZH2O6kPsHoRL9A7
+2024-12-02 20:12:27,661 - INFO - Generated Token: 0rer2wPRYd7gRMr1fWg79rfVe28fCrpK, Tokens Stored: ['RdZAYaOUkk6k5itHZ3MNPqaD6GWrHapB', 'gqguOMxmanYCUQthsFfVDZUCnpJwFneo', 'lZq5VQZ4MDICCRXrRS71MQwWOJ5V2hQc', '4dlnUk0taQVIL9AiR3DGxVh0YcLHzW5I', 'KiSyBCgOUMmHkDIgzWRqK0NN1eEK55xj', 'o6gnoF5j4DKO2KK2iq5msAZAaV6Qu7NW', 'wRIxEW6BObGaVOtZEZH2O6kPsHoRL9A7', '0rer2wPRYd7gRMr1fWg79rfVe28fCrpK']
+2024-12-02 20:12:27,662 - INFO - Authenticating token: 0rer2wPRYd7gRMr1fWg79rfVe28fCrpK
+2024-12-02 20:12:27,662 - INFO - Token is valid: 0rer2wPRYd7gRMr1fWg79rfVe28fCrpK
+2024-12-02 20:12:27,662 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer 0rer2wPRYd7gRMr1fWg79rfVe28fCrpK'}
+2024-12-02 20:12:27,663 - INFO - Generated Token: HuJtuvsIZNbfJDOQ3orpoMRakpdnXQfh, Tokens Stored: ['RdZAYaOUkk6k5itHZ3MNPqaD6GWrHapB', 'gqguOMxmanYCUQthsFfVDZUCnpJwFneo', 'lZq5VQZ4MDICCRXrRS71MQwWOJ5V2hQc', '4dlnUk0taQVIL9AiR3DGxVh0YcLHzW5I', 'KiSyBCgOUMmHkDIgzWRqK0NN1eEK55xj', 'o6gnoF5j4DKO2KK2iq5msAZAaV6Qu7NW', 'wRIxEW6BObGaVOtZEZH2O6kPsHoRL9A7', '0rer2wPRYd7gRMr1fWg79rfVe28fCrpK', 'HuJtuvsIZNbfJDOQ3orpoMRakpdnXQfh']
+2024-12-02 20:12:27,664 - INFO - Authenticating token: HuJtuvsIZNbfJDOQ3orpoMRakpdnXQfh
+2024-12-02 20:12:27,665 - INFO - Token is valid: HuJtuvsIZNbfJDOQ3orpoMRakpdnXQfh
+2024-12-02 20:12:27,666 - INFO - Generated Token: Xh7PrJQ05kUPNuY5r4WjEtUnmiADqded, Tokens Stored: ['RdZAYaOUkk6k5itHZ3MNPqaD6GWrHapB', 'gqguOMxmanYCUQthsFfVDZUCnpJwFneo', 'lZq5VQZ4MDICCRXrRS71MQwWOJ5V2hQc', '4dlnUk0taQVIL9AiR3DGxVh0YcLHzW5I', 'KiSyBCgOUMmHkDIgzWRqK0NN1eEK55xj', 'o6gnoF5j4DKO2KK2iq5msAZAaV6Qu7NW', 'wRIxEW6BObGaVOtZEZH2O6kPsHoRL9A7', '0rer2wPRYd7gRMr1fWg79rfVe28fCrpK', 'HuJtuvsIZNbfJDOQ3orpoMRakpdnXQfh', 'Xh7PrJQ05kUPNuY5r4WjEtUnmiADqded']
+2024-12-02 20:12:27,667 - INFO - Authenticating token: Xh7PrJQ05kUPNuY5r4WjEtUnmiADqded
+2024-12-02 20:12:27,667 - INFO - Token is valid: Xh7PrJQ05kUPNuY5r4WjEtUnmiADqded
+2024-12-02 20:12:27,667 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer Xh7PrJQ05kUPNuY5r4WjEtUnmiADqded'}
+2024-12-02 20:12:27,669 - INFO - Generated Token: rW4iIQvTPwWKSvFHwgqpxqcZ7qjEKCUi, Tokens Stored: ['RdZAYaOUkk6k5itHZ3MNPqaD6GWrHapB', 'gqguOMxmanYCUQthsFfVDZUCnpJwFneo', 'lZq5VQZ4MDICCRXrRS71MQwWOJ5V2hQc', '4dlnUk0taQVIL9AiR3DGxVh0YcLHzW5I', 'KiSyBCgOUMmHkDIgzWRqK0NN1eEK55xj', 'o6gnoF5j4DKO2KK2iq5msAZAaV6Qu7NW', 'wRIxEW6BObGaVOtZEZH2O6kPsHoRL9A7', '0rer2wPRYd7gRMr1fWg79rfVe28fCrpK', 'HuJtuvsIZNbfJDOQ3orpoMRakpdnXQfh', 'Xh7PrJQ05kUPNuY5r4WjEtUnmiADqded', 'rW4iIQvTPwWKSvFHwgqpxqcZ7qjEKCUi']
+2024-12-02 20:12:27,670 - INFO - Authenticating token: rW4iIQvTPwWKSvFHwgqpxqcZ7qjEKCUi
+2024-12-02 20:12:27,670 - INFO - Token is valid: rW4iIQvTPwWKSvFHwgqpxqcZ7qjEKCUi
+2024-12-02 20:12:27,671 - INFO - Preparing to push 0 metrics: []
+2024-12-02 20:14:57,660 - INFO - Generated Token: QwueYc9sR4371435k5PgO9n7MH5vlKZe, Tokens Stored: ['QwueYc9sR4371435k5PgO9n7MH5vlKZe']
+2024-12-02 20:14:57,663 - INFO - Generated Token: jO3h1SpjZtXgxLUSNnj485KF2CthVIMj, Tokens Stored: ['QwueYc9sR4371435k5PgO9n7MH5vlKZe', 'jO3h1SpjZtXgxLUSNnj485KF2CthVIMj']
+2024-12-02 20:14:57,664 - INFO - Authenticating token: jO3h1SpjZtXgxLUSNnj485KF2CthVIMj
+2024-12-02 20:14:57,664 - INFO - Token is valid: jO3h1SpjZtXgxLUSNnj485KF2CthVIMj
+2024-12-02 20:14:57,665 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer jO3h1SpjZtXgxLUSNnj485KF2CthVIMj'}
+2024-12-02 20:14:57,666 - INFO - Generated Token: pABx7Ruf5hfzcjClZiWaoucNlMnwubQY, Tokens Stored: ['QwueYc9sR4371435k5PgO9n7MH5vlKZe', 'jO3h1SpjZtXgxLUSNnj485KF2CthVIMj', 'pABx7Ruf5hfzcjClZiWaoucNlMnwubQY']
+2024-12-02 20:14:57,667 - INFO - Authenticating token: pABx7Ruf5hfzcjClZiWaoucNlMnwubQY
+2024-12-02 20:14:57,667 - INFO - Token is valid: pABx7Ruf5hfzcjClZiWaoucNlMnwubQY
+2024-12-02 20:14:57,669 - INFO - Generated Token: 5qnQ7Kx87pcXpFjYq4P0pFzr4EIABwE7, Tokens Stored: ['QwueYc9sR4371435k5PgO9n7MH5vlKZe', 'jO3h1SpjZtXgxLUSNnj485KF2CthVIMj', 'pABx7Ruf5hfzcjClZiWaoucNlMnwubQY', '5qnQ7Kx87pcXpFjYq4P0pFzr4EIABwE7']
+2024-12-02 20:14:57,670 - INFO - Authenticating token: 5qnQ7Kx87pcXpFjYq4P0pFzr4EIABwE7
+2024-12-02 20:14:57,670 - INFO - Token is valid: 5qnQ7Kx87pcXpFjYq4P0pFzr4EIABwE7
+2024-12-02 20:14:57,670 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer 5qnQ7Kx87pcXpFjYq4P0pFzr4EIABwE7'}
+2024-12-02 20:14:57,672 - INFO - Generated Token: IlZle2YZU5LsWyONzyReDNmGJa2ePN4A, Tokens Stored: ['QwueYc9sR4371435k5PgO9n7MH5vlKZe', 'jO3h1SpjZtXgxLUSNnj485KF2CthVIMj', 'pABx7Ruf5hfzcjClZiWaoucNlMnwubQY', '5qnQ7Kx87pcXpFjYq4P0pFzr4EIABwE7', 'IlZle2YZU5LsWyONzyReDNmGJa2ePN4A']
+2024-12-02 20:14:57,673 - INFO - Authenticating token: IlZle2YZU5LsWyONzyReDNmGJa2ePN4A
+2024-12-02 20:14:57,673 - INFO - Token is valid: IlZle2YZU5LsWyONzyReDNmGJa2ePN4A
+2024-12-02 20:14:57,677 - INFO - Generated Token: 9mQdghN48QkWmZXtOjvAAD8KudYcEKWt, Tokens Stored: ['QwueYc9sR4371435k5PgO9n7MH5vlKZe', 'jO3h1SpjZtXgxLUSNnj485KF2CthVIMj', 'pABx7Ruf5hfzcjClZiWaoucNlMnwubQY', '5qnQ7Kx87pcXpFjYq4P0pFzr4EIABwE7', 'IlZle2YZU5LsWyONzyReDNmGJa2ePN4A', '9mQdghN48QkWmZXtOjvAAD8KudYcEKWt']
+2024-12-02 20:14:57,679 - INFO - Authenticating token: 9mQdghN48QkWmZXtOjvAAD8KudYcEKWt
+2024-12-02 20:14:57,679 - INFO - Token is valid: 9mQdghN48QkWmZXtOjvAAD8KudYcEKWt
+2024-12-02 20:14:57,679 - INFO - Preparing to push 8 metrics: [{'key': 'stock_AAPL_avg_price', 'value': 150.25}, {'key': 'stock_AAPL_max_price', 'value': 155.0}, {'key': 'stock_AAPL_min_price', 'value': 145.0}, {'key': 'stock_AAPL_total_volume', 'value': 123456789}, {'key': 'weather_Ljubljana_temperature', 'value': 2.0}, {'key': 'weather_Ljubljana_humidity', 'value': 85}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5.0}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}]
+2024-12-02 20:14:57,682 - INFO - Authenticating token: j7q3Ig9uXIMr2KbjYdI3bHrfYMf9V2ig
+2024-12-02 20:14:57,682 - INFO - Token is invalid or expired: j7q3Ig9uXIMr2KbjYdI3bHrfYMf9V2ig
+2024-12-02 20:14:57,683 - INFO - Generated Token: 4rhrq4hONl1OXX5XIzcLLn4lUN4qDww2, Tokens Stored: ['QwueYc9sR4371435k5PgO9n7MH5vlKZe', 'jO3h1SpjZtXgxLUSNnj485KF2CthVIMj', 'pABx7Ruf5hfzcjClZiWaoucNlMnwubQY', '5qnQ7Kx87pcXpFjYq4P0pFzr4EIABwE7', 'IlZle2YZU5LsWyONzyReDNmGJa2ePN4A', '9mQdghN48QkWmZXtOjvAAD8KudYcEKWt', 'j7q3Ig9uXIMr2KbjYdI3bHrfYMf9V2ig', '4rhrq4hONl1OXX5XIzcLLn4lUN4qDww2']
+2024-12-02 20:14:57,684 - INFO - Authenticating token: 4rhrq4hONl1OXX5XIzcLLn4lUN4qDww2
+2024-12-02 20:14:57,684 - INFO - Token is valid: 4rhrq4hONl1OXX5XIzcLLn4lUN4qDww2
+2024-12-02 20:14:57,685 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer 4rhrq4hONl1OXX5XIzcLLn4lUN4qDww2'}
+2024-12-02 20:14:57,686 - INFO - Generated Token: rCW0Nwzo24z3AdrtXvddte49xCKdo9hN, Tokens Stored: ['QwueYc9sR4371435k5PgO9n7MH5vlKZe', 'jO3h1SpjZtXgxLUSNnj485KF2CthVIMj', 'pABx7Ruf5hfzcjClZiWaoucNlMnwubQY', '5qnQ7Kx87pcXpFjYq4P0pFzr4EIABwE7', 'IlZle2YZU5LsWyONzyReDNmGJa2ePN4A', '9mQdghN48QkWmZXtOjvAAD8KudYcEKWt', 'j7q3Ig9uXIMr2KbjYdI3bHrfYMf9V2ig', '4rhrq4hONl1OXX5XIzcLLn4lUN4qDww2', 'rCW0Nwzo24z3AdrtXvddte49xCKdo9hN']
+2024-12-02 20:14:57,687 - INFO - Authenticating token: rCW0Nwzo24z3AdrtXvddte49xCKdo9hN
+2024-12-02 20:14:57,687 - INFO - Token is valid: rCW0Nwzo24z3AdrtXvddte49xCKdo9hN
+2024-12-02 20:14:57,688 - INFO - Generated Token: WaCy1mMi1wMB2mu3zkEGV7PkXnxvQkoA, Tokens Stored: ['QwueYc9sR4371435k5PgO9n7MH5vlKZe', 'jO3h1SpjZtXgxLUSNnj485KF2CthVIMj', 'pABx7Ruf5hfzcjClZiWaoucNlMnwubQY', '5qnQ7Kx87pcXpFjYq4P0pFzr4EIABwE7', 'IlZle2YZU5LsWyONzyReDNmGJa2ePN4A', '9mQdghN48QkWmZXtOjvAAD8KudYcEKWt', 'j7q3Ig9uXIMr2KbjYdI3bHrfYMf9V2ig', '4rhrq4hONl1OXX5XIzcLLn4lUN4qDww2', 'rCW0Nwzo24z3AdrtXvddte49xCKdo9hN', 'WaCy1mMi1wMB2mu3zkEGV7PkXnxvQkoA']
+2024-12-02 20:14:57,689 - INFO - Authenticating token: WaCy1mMi1wMB2mu3zkEGV7PkXnxvQkoA
+2024-12-02 20:14:57,689 - INFO - Token is valid: WaCy1mMi1wMB2mu3zkEGV7PkXnxvQkoA
+2024-12-02 20:14:57,690 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer WaCy1mMi1wMB2mu3zkEGV7PkXnxvQkoA'}
+2024-12-02 20:14:57,691 - INFO - Generated Token: 7MBHOYalzI3cN1BwUuVlosnLUylzPCq6, Tokens Stored: ['QwueYc9sR4371435k5PgO9n7MH5vlKZe', 'jO3h1SpjZtXgxLUSNnj485KF2CthVIMj', 'pABx7Ruf5hfzcjClZiWaoucNlMnwubQY', '5qnQ7Kx87pcXpFjYq4P0pFzr4EIABwE7', 'IlZle2YZU5LsWyONzyReDNmGJa2ePN4A', '9mQdghN48QkWmZXtOjvAAD8KudYcEKWt', 'j7q3Ig9uXIMr2KbjYdI3bHrfYMf9V2ig', '4rhrq4hONl1OXX5XIzcLLn4lUN4qDww2', 'rCW0Nwzo24z3AdrtXvddte49xCKdo9hN', 'WaCy1mMi1wMB2mu3zkEGV7PkXnxvQkoA', '7MBHOYalzI3cN1BwUuVlosnLUylzPCq6']
+2024-12-02 20:14:57,693 - INFO - Authenticating token: 7MBHOYalzI3cN1BwUuVlosnLUylzPCq6
+2024-12-02 20:14:57,693 - INFO - Token is valid: 7MBHOYalzI3cN1BwUuVlosnLUylzPCq6
+2024-12-02 20:14:57,693 - INFO - Preparing to push 0 metrics: []
+2024-12-03 04:45:36,871 - INFO - Generated Token: bO7jE9JTIkHXVcx6cJMWAW91DY1FW1fd, Tokens Stored: ['ujUrQXI54eaS3J8eJmEf1qi9VNjeDUMA', 'bO7jE9JTIkHXVcx6cJMWAW91DY1FW1fd']
+2024-12-03 04:45:46,054 - INFO - Authenticating token: bO7jE9JTIkHXVcx6cJMWAW91DY1FW1fd
+2024-12-03 04:45:46,054 - INFO - Token is valid: bO7jE9JTIkHXVcx6cJMWAW91DY1FW1fd
+2024-12-03 04:45:47,885 - INFO - Preparing to push 20 metrics: [{'key': 'stock_AAPL_avg_price', 'value': 225.77500000000018}, {'key': 'stock_AAPL_max_price', 'value': 239.59}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4856144247.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.3078}, {'key': 'stock_MSFT_max_price', 'value': 453.96}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2025579555.0}, {'key': 'weather_Ljubljana_temperature', 'value': 1}, {'key': 'weather_Ljubljana_humidity', 'value': 93}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1018}, {'key': 'weather_Maribor_temperature', 'value': -3}, {'key': 'weather_Maribor_humidity', 'value': 93}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1018}, {'key': 'weather_Ptuj_temperature', 'value': -3}, {'key': 'weather_Ptuj_humidity', 'value': 93}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1018}]
+2024-12-03 04:45:48,596 - INFO - Service: Databox, Metrics Sent: 20, Payload: [{'key': 'stock_AAPL_avg_price', 'value': 225.77500000000018}, {'key': 'stock_AAPL_max_price', 'value': 239.59}, {'key': 'stock_AAPL_min_price', 'value': 207.23}, {'key': 'stock_AAPL_total_volume', 'value': 4856144247.0}, {'key': 'stock_MSFT_avg_price', 'value': 421.3078}, {'key': 'stock_MSFT_max_price', 'value': 453.96}, {'key': 'stock_MSFT_min_price', 'value': 395.15}, {'key': 'stock_MSFT_total_volume', 'value': 2025579555.0}, {'key': 'weather_Ljubljana_temperature', 'value': 1}, {'key': 'weather_Ljubljana_humidity', 'value': 93}, {'key': 'weather_Ljubljana_wind_speed', 'value': 4}, {'key': 'weather_Ljubljana_pressure', 'value': 1018}, {'key': 'weather_Maribor_temperature', 'value': -3}, {'key': 'weather_Maribor_humidity', 'value': 93}, {'key': 'weather_Maribor_wind_speed', 'value': 4}, {'key': 'weather_Maribor_pressure', 'value': 1018}, {'key': 'weather_Ptuj_temperature', 'value': -3}, {'key': 'weather_Ptuj_humidity', 'value': 93}, {'key': 'weather_Ptuj_wind_speed', 'value': 4}, {'key': 'weather_Ptuj_pressure', 'value': 1018}], Status: Success
+2024-12-03 05:53:29,819 - INFO - Generated Token: uuXtvT56AuEy9y5bHmMmvJ8oqO4zNgq5, Tokens Stored: ['uuXtvT56AuEy9y5bHmMmvJ8oqO4zNgq5']
+2024-12-03 05:53:29,821 - INFO - Generated Token: cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9, Tokens Stored: ['uuXtvT56AuEy9y5bHmMmvJ8oqO4zNgq5', 'cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9']
+2024-12-03 05:53:29,823 - INFO - Authenticating token: cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9
+2024-12-03 05:53:29,823 - INFO - Token is valid: cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9
+2024-12-03 05:53:29,823 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9'}
+2024-12-03 05:53:29,825 - INFO - Generated Token: SZjlBB4W8KCU6kJ2XignEn5fcqpFX0a2, Tokens Stored: ['uuXtvT56AuEy9y5bHmMmvJ8oqO4zNgq5', 'cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9', 'SZjlBB4W8KCU6kJ2XignEn5fcqpFX0a2']
+2024-12-03 05:53:29,826 - INFO - Authenticating token: SZjlBB4W8KCU6kJ2XignEn5fcqpFX0a2
+2024-12-03 05:53:29,826 - INFO - Token is valid: SZjlBB4W8KCU6kJ2XignEn5fcqpFX0a2
+2024-12-03 05:53:29,827 - INFO - Generated Token: bg1WKz4PAebHiWcleJCnm2b4BfIAdMnH, Tokens Stored: ['uuXtvT56AuEy9y5bHmMmvJ8oqO4zNgq5', 'cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9', 'SZjlBB4W8KCU6kJ2XignEn5fcqpFX0a2', 'bg1WKz4PAebHiWcleJCnm2b4BfIAdMnH']
+2024-12-03 05:53:29,829 - INFO - Authenticating token: bg1WKz4PAebHiWcleJCnm2b4BfIAdMnH
+2024-12-03 05:53:29,829 - INFO - Token is valid: bg1WKz4PAebHiWcleJCnm2b4BfIAdMnH
+2024-12-03 05:53:29,829 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer bg1WKz4PAebHiWcleJCnm2b4BfIAdMnH'}
+2024-12-03 05:53:29,830 - INFO - Generated Token: hMkLQyi2BUkd7MNpnw6lX3xfMiVQiIRK, Tokens Stored: ['uuXtvT56AuEy9y5bHmMmvJ8oqO4zNgq5', 'cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9', 'SZjlBB4W8KCU6kJ2XignEn5fcqpFX0a2', 'bg1WKz4PAebHiWcleJCnm2b4BfIAdMnH', 'hMkLQyi2BUkd7MNpnw6lX3xfMiVQiIRK']
+2024-12-03 05:53:29,831 - INFO - Authenticating token: hMkLQyi2BUkd7MNpnw6lX3xfMiVQiIRK
+2024-12-03 05:53:29,831 - INFO - Token is valid: hMkLQyi2BUkd7MNpnw6lX3xfMiVQiIRK
+2024-12-03 05:53:29,836 - INFO - Generated Token: NVcy0osRiSDziLluyWe5KZzQeAKsRCUU, Tokens Stored: ['uuXtvT56AuEy9y5bHmMmvJ8oqO4zNgq5', 'cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9', 'SZjlBB4W8KCU6kJ2XignEn5fcqpFX0a2', 'bg1WKz4PAebHiWcleJCnm2b4BfIAdMnH', 'hMkLQyi2BUkd7MNpnw6lX3xfMiVQiIRK', 'NVcy0osRiSDziLluyWe5KZzQeAKsRCUU']
+2024-12-03 05:53:29,838 - INFO - Authenticating token: NVcy0osRiSDziLluyWe5KZzQeAKsRCUU
+2024-12-03 05:53:29,838 - INFO - Token is valid: NVcy0osRiSDziLluyWe5KZzQeAKsRCUU
+2024-12-03 05:53:29,838 - INFO - Preparing to push 8 metrics: [{'key': 'stock_AAPL_avg_price', 'value': 150.25}, {'key': 'stock_AAPL_max_price', 'value': 155.0}, {'key': 'stock_AAPL_min_price', 'value': 145.0}, {'key': 'stock_AAPL_total_volume', 'value': 123456789}, {'key': 'weather_Ljubljana_temperature', 'value': 2.0}, {'key': 'weather_Ljubljana_humidity', 'value': 85}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5.0}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}]
+2024-12-03 05:53:29,840 - INFO - Authenticating token: FKBhAeqhO7Wu76msVe2PeIwM2iWYMKQA
+2024-12-03 05:53:29,840 - INFO - Token is invalid or expired: FKBhAeqhO7Wu76msVe2PeIwM2iWYMKQA
+2024-12-03 05:53:29,842 - INFO - Generated Token: iUglbjkE0nBbwfVEk88Zz812aX9GJMt1, Tokens Stored: ['uuXtvT56AuEy9y5bHmMmvJ8oqO4zNgq5', 'cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9', 'SZjlBB4W8KCU6kJ2XignEn5fcqpFX0a2', 'bg1WKz4PAebHiWcleJCnm2b4BfIAdMnH', 'hMkLQyi2BUkd7MNpnw6lX3xfMiVQiIRK', 'NVcy0osRiSDziLluyWe5KZzQeAKsRCUU', 'FKBhAeqhO7Wu76msVe2PeIwM2iWYMKQA', 'iUglbjkE0nBbwfVEk88Zz812aX9GJMt1']
+2024-12-03 05:53:29,843 - INFO - Authenticating token: iUglbjkE0nBbwfVEk88Zz812aX9GJMt1
+2024-12-03 05:53:29,843 - INFO - Token is valid: iUglbjkE0nBbwfVEk88Zz812aX9GJMt1
+2024-12-03 05:53:29,843 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer iUglbjkE0nBbwfVEk88Zz812aX9GJMt1'}
+2024-12-03 05:53:29,844 - INFO - Generated Token: cZC4byjOr34mZVAk2H1MiINgFYBBbx0c, Tokens Stored: ['uuXtvT56AuEy9y5bHmMmvJ8oqO4zNgq5', 'cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9', 'SZjlBB4W8KCU6kJ2XignEn5fcqpFX0a2', 'bg1WKz4PAebHiWcleJCnm2b4BfIAdMnH', 'hMkLQyi2BUkd7MNpnw6lX3xfMiVQiIRK', 'NVcy0osRiSDziLluyWe5KZzQeAKsRCUU', 'FKBhAeqhO7Wu76msVe2PeIwM2iWYMKQA', 'iUglbjkE0nBbwfVEk88Zz812aX9GJMt1', 'cZC4byjOr34mZVAk2H1MiINgFYBBbx0c']
+2024-12-03 05:53:29,846 - INFO - Authenticating token: cZC4byjOr34mZVAk2H1MiINgFYBBbx0c
+2024-12-03 05:53:29,846 - INFO - Token is valid: cZC4byjOr34mZVAk2H1MiINgFYBBbx0c
+2024-12-03 05:53:29,847 - INFO - Generated Token: 1jMxtG4L62tpsCwNmVNTUUVYHrzlLWk9, Tokens Stored: ['uuXtvT56AuEy9y5bHmMmvJ8oqO4zNgq5', 'cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9', 'SZjlBB4W8KCU6kJ2XignEn5fcqpFX0a2', 'bg1WKz4PAebHiWcleJCnm2b4BfIAdMnH', 'hMkLQyi2BUkd7MNpnw6lX3xfMiVQiIRK', 'NVcy0osRiSDziLluyWe5KZzQeAKsRCUU', 'FKBhAeqhO7Wu76msVe2PeIwM2iWYMKQA', 'iUglbjkE0nBbwfVEk88Zz812aX9GJMt1', 'cZC4byjOr34mZVAk2H1MiINgFYBBbx0c', '1jMxtG4L62tpsCwNmVNTUUVYHrzlLWk9']
+2024-12-03 05:53:29,849 - INFO - Authenticating token: 1jMxtG4L62tpsCwNmVNTUUVYHrzlLWk9
+2024-12-03 05:53:29,849 - INFO - Token is valid: 1jMxtG4L62tpsCwNmVNTUUVYHrzlLWk9
+2024-12-03 05:53:29,849 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer 1jMxtG4L62tpsCwNmVNTUUVYHrzlLWk9'}
+2024-12-03 05:53:29,850 - INFO - Generated Token: mU4oXKXVgudtN3Igcg3o36eHWll6O0m6, Tokens Stored: ['uuXtvT56AuEy9y5bHmMmvJ8oqO4zNgq5', 'cpbYm3P6xbqZtzQfd4K3Y193btBZq8f9', 'SZjlBB4W8KCU6kJ2XignEn5fcqpFX0a2', 'bg1WKz4PAebHiWcleJCnm2b4BfIAdMnH', 'hMkLQyi2BUkd7MNpnw6lX3xfMiVQiIRK', 'NVcy0osRiSDziLluyWe5KZzQeAKsRCUU', 'FKBhAeqhO7Wu76msVe2PeIwM2iWYMKQA', 'iUglbjkE0nBbwfVEk88Zz812aX9GJMt1', 'cZC4byjOr34mZVAk2H1MiINgFYBBbx0c', '1jMxtG4L62tpsCwNmVNTUUVYHrzlLWk9', 'mU4oXKXVgudtN3Igcg3o36eHWll6O0m6']
+2024-12-03 05:53:29,852 - INFO - Authenticating token: mU4oXKXVgudtN3Igcg3o36eHWll6O0m6
+2024-12-03 05:53:29,852 - INFO - Token is valid: mU4oXKXVgudtN3Igcg3o36eHWll6O0m6
+2024-12-03 05:53:29,853 - INFO - Preparing to push 0 metrics: []
+2024-12-03 05:56:09,423 - INFO - Generated Token: jCAakY5zgY396REJeTww7KTCHtKgvOMb, Tokens Stored: ['jCAakY5zgY396REJeTww7KTCHtKgvOMb']
+2024-12-03 05:56:09,426 - INFO - Generated Token: Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b, Tokens Stored: ['jCAakY5zgY396REJeTww7KTCHtKgvOMb', 'Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b']
+2024-12-03 05:56:09,427 - INFO - Authenticating token: Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b
+2024-12-03 05:56:09,427 - INFO - Token is valid: Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b
+2024-12-03 05:56:09,427 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b'}
+2024-12-03 05:56:09,429 - INFO - Generated Token: L40uTZXR3AmwS5HC64w0Jw3qZHIxTvYg, Tokens Stored: ['jCAakY5zgY396REJeTww7KTCHtKgvOMb', 'Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b', 'L40uTZXR3AmwS5HC64w0Jw3qZHIxTvYg']
+2024-12-03 05:56:09,430 - INFO - Authenticating token: L40uTZXR3AmwS5HC64w0Jw3qZHIxTvYg
+2024-12-03 05:56:09,430 - INFO - Token is valid: L40uTZXR3AmwS5HC64w0Jw3qZHIxTvYg
+2024-12-03 05:56:09,432 - INFO - Generated Token: OAjbGKWZmH5AygBjqv12QqXbRDJuFd0X, Tokens Stored: ['jCAakY5zgY396REJeTww7KTCHtKgvOMb', 'Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b', 'L40uTZXR3AmwS5HC64w0Jw3qZHIxTvYg', 'OAjbGKWZmH5AygBjqv12QqXbRDJuFd0X']
+2024-12-03 05:56:09,433 - INFO - Authenticating token: OAjbGKWZmH5AygBjqv12QqXbRDJuFd0X
+2024-12-03 05:56:09,433 - INFO - Token is valid: OAjbGKWZmH5AygBjqv12QqXbRDJuFd0X
+2024-12-03 05:56:09,433 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer OAjbGKWZmH5AygBjqv12QqXbRDJuFd0X'}
+2024-12-03 05:56:09,435 - INFO - Generated Token: xOQQNDOulsqqID2lVsNegIpuBIoKg0ON, Tokens Stored: ['jCAakY5zgY396REJeTww7KTCHtKgvOMb', 'Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b', 'L40uTZXR3AmwS5HC64w0Jw3qZHIxTvYg', 'OAjbGKWZmH5AygBjqv12QqXbRDJuFd0X', 'xOQQNDOulsqqID2lVsNegIpuBIoKg0ON']
+2024-12-03 05:56:09,436 - INFO - Authenticating token: xOQQNDOulsqqID2lVsNegIpuBIoKg0ON
+2024-12-03 05:56:09,436 - INFO - Token is valid: xOQQNDOulsqqID2lVsNegIpuBIoKg0ON
+2024-12-03 05:56:09,440 - INFO - Generated Token: sD30c9lnlbkOas5tpRIIPUdpoW7IJnp8, Tokens Stored: ['jCAakY5zgY396REJeTww7KTCHtKgvOMb', 'Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b', 'L40uTZXR3AmwS5HC64w0Jw3qZHIxTvYg', 'OAjbGKWZmH5AygBjqv12QqXbRDJuFd0X', 'xOQQNDOulsqqID2lVsNegIpuBIoKg0ON', 'sD30c9lnlbkOas5tpRIIPUdpoW7IJnp8']
+2024-12-03 05:56:09,442 - INFO - Authenticating token: sD30c9lnlbkOas5tpRIIPUdpoW7IJnp8
+2024-12-03 05:56:09,442 - INFO - Token is valid: sD30c9lnlbkOas5tpRIIPUdpoW7IJnp8
+2024-12-03 05:56:09,442 - INFO - Preparing to push 8 metrics: [{'key': 'stock_AAPL_avg_price', 'value': 150.25}, {'key': 'stock_AAPL_max_price', 'value': 155.0}, {'key': 'stock_AAPL_min_price', 'value': 145.0}, {'key': 'stock_AAPL_total_volume', 'value': 123456789}, {'key': 'weather_Ljubljana_temperature', 'value': 2.0}, {'key': 'weather_Ljubljana_humidity', 'value': 85}, {'key': 'weather_Ljubljana_wind_speed', 'value': 5.0}, {'key': 'weather_Ljubljana_pressure', 'value': 1023}]
+2024-12-03 05:56:09,445 - INFO - Authenticating token: TYpsdoWZY72tPuSNVFaOaZuTsCjYwXSL
+2024-12-03 05:56:09,445 - INFO - Token is invalid or expired: TYpsdoWZY72tPuSNVFaOaZuTsCjYwXSL
+2024-12-03 05:56:09,446 - INFO - Generated Token: TYZ0D5aiBaZPu9lY5w3yo7wCjTzgIzay, Tokens Stored: ['jCAakY5zgY396REJeTww7KTCHtKgvOMb', 'Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b', 'L40uTZXR3AmwS5HC64w0Jw3qZHIxTvYg', 'OAjbGKWZmH5AygBjqv12QqXbRDJuFd0X', 'xOQQNDOulsqqID2lVsNegIpuBIoKg0ON', 'sD30c9lnlbkOas5tpRIIPUdpoW7IJnp8', 'TYpsdoWZY72tPuSNVFaOaZuTsCjYwXSL', 'TYZ0D5aiBaZPu9lY5w3yo7wCjTzgIzay']
+2024-12-03 05:56:09,448 - INFO - Authenticating token: TYZ0D5aiBaZPu9lY5w3yo7wCjTzgIzay
+2024-12-03 05:56:09,448 - INFO - Token is valid: TYZ0D5aiBaZPu9lY5w3yo7wCjTzgIzay
+2024-12-03 05:56:09,448 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer TYZ0D5aiBaZPu9lY5w3yo7wCjTzgIzay'}
+2024-12-03 05:56:09,449 - INFO - Generated Token: k2GH9cHrcIT9avj178yt0N3ccQ0kExbv, Tokens Stored: ['jCAakY5zgY396REJeTww7KTCHtKgvOMb', 'Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b', 'L40uTZXR3AmwS5HC64w0Jw3qZHIxTvYg', 'OAjbGKWZmH5AygBjqv12QqXbRDJuFd0X', 'xOQQNDOulsqqID2lVsNegIpuBIoKg0ON', 'sD30c9lnlbkOas5tpRIIPUdpoW7IJnp8', 'TYpsdoWZY72tPuSNVFaOaZuTsCjYwXSL', 'TYZ0D5aiBaZPu9lY5w3yo7wCjTzgIzay', 'k2GH9cHrcIT9avj178yt0N3ccQ0kExbv']
+2024-12-03 05:56:09,450 - INFO - Authenticating token: k2GH9cHrcIT9avj178yt0N3ccQ0kExbv
+2024-12-03 05:56:09,450 - INFO - Token is valid: k2GH9cHrcIT9avj178yt0N3ccQ0kExbv
+2024-12-03 05:56:09,452 - INFO - Generated Token: hDOlt24taSCldcxGRynVwyJn9cHbx7eF, Tokens Stored: ['jCAakY5zgY396REJeTww7KTCHtKgvOMb', 'Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b', 'L40uTZXR3AmwS5HC64w0Jw3qZHIxTvYg', 'OAjbGKWZmH5AygBjqv12QqXbRDJuFd0X', 'xOQQNDOulsqqID2lVsNegIpuBIoKg0ON', 'sD30c9lnlbkOas5tpRIIPUdpoW7IJnp8', 'TYpsdoWZY72tPuSNVFaOaZuTsCjYwXSL', 'TYZ0D5aiBaZPu9lY5w3yo7wCjTzgIzay', 'k2GH9cHrcIT9avj178yt0N3ccQ0kExbv', 'hDOlt24taSCldcxGRynVwyJn9cHbx7eF']
+2024-12-03 05:56:09,453 - INFO - Authenticating token: hDOlt24taSCldcxGRynVwyJn9cHbx7eF
+2024-12-03 05:56:09,453 - INFO - Token is valid: hDOlt24taSCldcxGRynVwyJn9cHbx7eF
+2024-12-03 05:56:09,453 - DEBUG - Request Headers: {'User-Agent': 'werkzeug/2.3.4', 'Host': 'localhost', 'Authorization': 'Bearer hDOlt24taSCldcxGRynVwyJn9cHbx7eF'}
+2024-12-03 05:56:09,454 - INFO - Generated Token: YtwOv7v6VZiskZJbsk7YqD0KiDduU5zl, Tokens Stored: ['jCAakY5zgY396REJeTww7KTCHtKgvOMb', 'Tl633YiEs9ULeT8EGDUFavyIgSpWkV6b', 'L40uTZXR3AmwS5HC64w0Jw3qZHIxTvYg', 'OAjbGKWZmH5AygBjqv12QqXbRDJuFd0X', 'xOQQNDOulsqqID2lVsNegIpuBIoKg0ON', 'sD30c9lnlbkOas5tpRIIPUdpoW7IJnp8', 'TYpsdoWZY72tPuSNVFaOaZuTsCjYwXSL', 'TYZ0D5aiBaZPu9lY5w3yo7wCjTzgIzay', 'k2GH9cHrcIT9avj178yt0N3ccQ0kExbv', 'hDOlt24taSCldcxGRynVwyJn9cHbx7eF', 'YtwOv7v6VZiskZJbsk7YqD0KiDduU5zl']
+2024-12-03 05:56:09,456 - INFO - Authenticating token: YtwOv7v6VZiskZJbsk7YqD0KiDduU5zl
+2024-12-03 05:56:09,456 - INFO - Token is valid: YtwOv7v6VZiskZJbsk7YqD0KiDduU5zl
+2024-12-03 05:56:09,457 - INFO - Preparing to push 0 metrics: []
